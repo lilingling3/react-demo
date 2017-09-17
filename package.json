@@ -1,0 +1,35 @@
+{
+  "name": "com.boldseas.mvp.ios",
+  "version": "1.0.0",
+  "displayName": "卖车宝test",
+  "cordova": {
+    "platforms": [
+      "ios"
+    ],
+    "plugins": {
+      "com.cordova.plugins.sms": {},
+      "com.darktalker.cordova.screenshot": {},
+      "cordova-plugin-app-version": {},
+      "cordova-plugin-camera": {},
+      "cordova-plugin-printer": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-wechat": {
+        "WECHATAPPID": "wxf8c358c7946c8952"
+      },
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {
+    "com.cordova.plugins.sms": "https://github.com/DevendraSinghNagar/cordova-sms-all-devices-plugin.git",
+    "com.darktalker.cordova.screenshot": "https://github.com/gitawego/cordova-screenshot.git",
+    "cordova-android": "^6.2.3",
+    "cordova-ios": "~4.4.0",
+    "cordova-plugin-app-version": "~0.1.9",
+    "cordova-plugin-camera": "~2.4.1",
+    "cordova-plugin-datecs-printer-qr": "^0.4.4",
+    "cordova-plugin-printer": "~0.7.3",
+    "cordova-plugin-statusbar": "~2.2.3",
+    "cordova-plugin-wechat": "~1.4.0",
+    "cordova-plugin-whitelist": "1"
+  }
+}

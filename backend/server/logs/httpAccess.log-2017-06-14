@@ -1,0 +1,74 @@
+[2017-06-14 12:25:48.359] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:7ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:26:35.500] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:26:37.792] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:27:09.327] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:27:14.085] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:4ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:28:02.157] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:3ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:28:30.563] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:11ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:29:35.272] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 12:42:34.366] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:4ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:42:41.086] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:0ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:45:48.912] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:0ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:48:58.741] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:48:59.498] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:49:00.476] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:49:01.166] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:49:01.780] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:57:36.042] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:4ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:57:40.152] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:2ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:57:53.706] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:0ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 12:59:57.686] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:43ms,url:/,responseData:{"bundleVersion":"1.0.1"}
+
+[2017-06-14 13:00:24.924] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:4ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-14 13:00:27.171] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-14 13:00:36.341] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-14 13:00:50.615] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 13:00:59.057] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:13ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-14 13:09:36.787] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:4ms,url:/api/test-post,requestData:{},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-14 13:10:01.875] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:2ms,url:/api/test-post,requestData:{},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-14 13:14:35.757] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:5ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-14 13:15:40.896] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:9ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-14 13:16:11.038] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:495ms,url:/test/page1,responseData:{"name":"zzk","age":22,"list":[{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"},{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"},{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]}
+
+[2017-06-14 13:17:16.397] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:126ms,url:/test/save-vin-pic,requestData:{"data":"{\"a\":1,\"b\":2,\"c\":[1,2,4],\"d\":{\"a\":1,\"b\":2}}"},responseData:{"data":{"message":"store file done"}}
+
+[2017-06-14 13:18:22.629] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:219ms,url:/test/parse-excel,error:文件格式错误!sheet名称必须为:OPTemplate,当前为:迭代优化费用 (2),requestData:{"data":"{\"a\":1,\"b\":2,\"c\":[1,2,4],\"d\":{\"a\":1,\"b\":2}}"},responseData:{"err":"文件格式错误!sheet名称必须为:OPTemplate,当前为:迭代优化费用 (2)"}
+
+[2017-06-14 13:20:38.030] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:280ms,url:/test/parse-excel,requestData:{"data":"{\"a\":1,\"b\":2,\"c\":[1,2,4],\"d\":{\"a\":1,\"b\":2}}"},responseData:{"data":{"message":"parse excel done"}}
+
+[2017-06-14 13:24:03.631] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:8ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-14 13:25:28.651] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-14 13:25:52.608] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:2ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-14 13:40:21.448] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:6ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+

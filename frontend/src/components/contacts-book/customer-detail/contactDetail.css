@@ -1,0 +1,248 @@
+.contactDetail .top span:first-child{
+	position: absolute;
+	left: .1rem;
+	top:50%;
+	margin-top:-25px;
+}
+.testDriveDetail .detail{
+	position: relative!important;
+}
+.detail{
+	overflow-x: hidden;
+	position: absolute;
+	margin-top: 38px;
+	font-size: 0.28rem;
+	height: calc(100% - 38px);
+	overflow-y: auto;
+	width:100%;
+	-webkit-overflow-scrolling : touch;
+	background: #fff;
+}
+.baseInfo>div {
+	position: relative;
+}
+
+.baseInfo>div:first-child {
+	text-align: center;
+}
+.baseInfo>div img{
+
+	width: 0.96rem;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	top:0.64rem;
+
+}
+.baseInfo .name{
+	color:#000;
+
+	display: inline-block;
+	font-size: 0.3rem;
+	margin-top: 1.68rem;
+}
+
+.oppInfo{
+	margin-top: 0.4rem;
+	padding-left: 0.4rem;
+	box-sizing: border-box;
+	border-left: 2px dashed #ccc;
+}
+.oppInfo>p{
+	margin-bottom: 0.14rem;
+	position: relative;
+	top:2px;
+
+}
+.oppInfo>p:last-child{
+	margin-bottom: 0px;
+}
+.oppInfo p span{
+
+	display: inline-block;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+	text-align: left;
+	font-size: 0.26rem;
+
+}
+
+.oppInfo p>span:first-child{
+	width: 1.82rem;
+}
+
+.oppInfo p>span:last-child{
+	color:#666;
+	width: calc(100% - 1.82rem);
+}
+.chat{
+	margin-top: 0.48rem;
+}
+.chat p{
+	text-align: center;
+}
+.chat .icon-weixin:before { 
+	content: "\e605"; 
+	font-size: 0.82rem; 
+	color:#37C837; 
+}
+.chat .icon-duanxin1:before {
+	content: "\e610";
+	font-size: 0.75rem; 
+	position: relative;
+	top: 2px;
+	color:#37C837;
+}
+.chat .icon-dianhua:before { 
+	content: "\e627";
+	font-size: 0.82rem;
+	color:#37C837; 
+	-webkit-transform: rotate(90deg); 
+	transform: rotate(90deg); 
+}
+.chat p{
+	font-size: 0.22rem;
+	color: #999;
+}
+.status{
+	height: 1.2rem;
+	line-height: 1.2rem;
+	background: #EFEDED;
+	border-radius: 0.18rem;
+	margin:0.28rem 0.2rem;
+	padding-left: 0.06rem;
+	box-sizing: border-box;
+}
+.status>div{
+	width: 14.28%;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+}
+.status>div:first-child{
+	width: calc(100% - (14.28% * 6));
+}
+.status>div>span{
+	position: relative;
+	font-size: 0.22rem;
+	top:14px
+}
+.cusTab{
+	height: 1.0rem;
+	width: 100%;
+	background: #EFEDED;
+	font-size: 0.28rem;
+}
+.cusTab span{
+	text-align: center;
+	height: 0.9rem;
+	line-height: 0.9rem;
+	margin-top: 0.1rem;
+}
+.cusTab .active{
+	background: #fff;
+}
+.keepUp{
+	position: relative;
+	padding:0.2rem 0.2rem 0.0rem 0.24rem;
+}
+.gMask{
+	position: absolute;
+	top:0;
+	bottom:0;
+	left: 0;
+	right: 0;
+	background: #000;
+	z-index: 100;
+	opacity: .2;
+	margin: 0!important;
+}
+.keepUp .selectInput>div{
+	border: 1px solid #C8C8C8;
+}
+.keepUp>div:not(.gPoP),.nextCommunicate>div{
+	margin-bottom: 0.26rem;
+}
+.keepUp>div>span i,.nextCommunicate>div>span i,.notNull{
+	color: #ff0f0f;
+	font-style: normal;
+	font-size:0.36rem;
+	position: relative;
+	top:0.1rem;
+	padding-right: 0.06rem;
+
+}
+
+
+.keepUp .chatTime{
+	height: 0.72rem;
+	line-height: 0.72rem;
+}
+.nextCommunicate>p{
+	margin:0.4rem 0 0.2rem;
+}
+
+.selectStatus>div>div{
+	position: relative;
+	top: 0.06rem;
+	left: 0.3rem;
+}
+.selectedChatStatus img{
+	width: 0.44rem;
+}
+.selectedChatStatus{
+	left: 0px;
+	top:2px;
+	margin-right:0.2rem;
+
+}
+.false>span{
+	padding-left: 0.4rem;
+
+}
+
+
+.success>span{
+	padding-left:0.4rem;
+}
+
+.remark textarea{
+	width:100%;
+	border:1px solid #ccc;
+	height: 1.96rem;
+	padding: 0.2rem;
+	box-sizing: border-box;
+	resize: none;
+}
+
+.selectInput>input{
+	box-sizing: border-box;
+	color: #999;
+	background: #fff;
+	height: 0.68rem;
+	border: 1px solid #C8C8C8;
+	padding: 0.15rem 1.0rem 0.15rem 0.2rem;
+	box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+.testDriveHistory .testDriveContent p{
+	font-size: 14px;
+	height: 30px;
+	line-height: 30px;
+}
+.testDriveHistory .testDriveContent{
+	margin-top: 6px;
+}
+
+.testDriveHistory .testDriveContent>p>span{
+	color: #0070BF;
+	border-bottom: 1px solid #0070BF;
+	font-weight: bold;
+
+}
+
+.gTestDriveHis .gSearchBtn{
+	text-align: center;
+	margin:30px 70px;
+}

@@ -1,0 +1,104 @@
+.batch-import{
+    padding: 10px;
+}
+
+.batch-import .explain{
+    margin: 10px;
+    padding: 15px;
+    background-color: #F3F3F5;
+}
+
+.batch-import .explain .text{
+    margin-left: 5px;
+    font-size: 14px;
+    color: #333333;
+}
+
+
+.batch-import .buttonDiv{
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+    height: 25px;
+    line-height: 25px;
+    margin-left: 10px;
+}
+
+.batch-import .buttonDiv .leftMargin{
+    margin-left: 20px;
+}
+
+.batch-import .btnOne{
+    position: absolute;
+    left: 10px;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+.batch-import .btnTwo{
+    width: 120px;
+    position: absolute;
+    left: 150px;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+.batch-import .button{
+    text-align: center;
+    background-color: #0070BF;;
+    color: white;
+    border: 1px solid #0070BF;
+    border-radius: 4px;
+    padding: 7px 12px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.batch-import .testButton{
+    width: 100%;
+    height: 100%;
+}
+
+
+.batch-import .export{
+    display: none;
+    margin: 30px 10px;
+}
+
+.batch-import .export>div{
+    margin-top: 20px;
+}
+
+.batch-import .remindText{
+    color: #333333;
+    font-size: 14px;
+}
+
+.batch-import .circle{
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    background-color: #333333;
+    border-radius: 5px;
+    /*-webkit-border-radius: 100px;*/
+    -moz-border-radius: 5px;
+}
+
+.batch-import .dash{
+    height: 20px;
+    border-bottom: 1px dashed #D1D1D1;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.batch-import .resultLayout{
+    margin: 20px 10px;
+}
+
+.batch-import .resultLayout .resultText{
+    color: #333333;
+    font-size: 14px;
+}
+
+.batch-import .resultLayout .tableLayout{
+
+}

@@ -1,0 +1,361 @@
+
+.screeningConditions {
+  background: #ECEBEB;
+  overflow-y: auto;
+}
+
+.screeningConditions .top {
+  height: 0.98rem;
+  background: #DEDDDD;
+  padding: 0 0.2rem;
+  font-size: 0.3rem;
+  color: #181818;
+  line-height: 0.98rem;
+}
+
+.screeningConditions section {
+  padding: 0 0.2rem;
+  margin-top: 0.42rem;
+}
+
+.splitLine {
+  position: relative;
+}
+
+.splitLine hr {
+  color: #000;
+}
+
+.splitLine span {
+  display: inline-block;
+  text-align: center;
+  font-size: 0.3rem;
+  width: 1.6rem;
+  position: absolute;
+  background: #ECEBEB;
+  left: 50%;
+  /*transform: translateX(-50%);*/
+  margin-left: -0.8rem;
+  top: -0.14rem;
+  color: #666;
+}
+
+.conditions {
+  font-size: 0.28rem;
+  color: #666;
+  height: calc(100% - 0.98rem);
+  overflow-y: auto;
+}
+
+.condition {
+  position: relative;
+  padding-left: 1.04rem;
+  margin-top: 0.4rem;
+  box-sizing: border-box;
+
+}
+
+.conditionCheckBox {
+  left: 0.32rem;
+  top: 2px;
+  width: 6px;
+  height: 6px;
+
+}
+
+.conditionCheckBox img {
+  width: 0.44rem;
+  top: -4px;
+}
+
+.oppLevel .splitLine {
+  margin-bottom: 0.2rem;
+}
+
+.oppLevel .level {
+  position: relative;;
+  width: 20%;
+  float: left;
+  text-align: center;
+}
+
+.oppLevelCheckBox {
+  top: 0.3rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 6px;
+  height: 6px;
+}
+
+.oppLevelCheckBox img {
+  width: 0.44rem;
+  left: -0.12rem;
+}
+
+.oppLevel .level > img {
+  width: 0.84rem;
+  margin-top: 0.58rem;
+}
+
+.selectConditions {
+  margin: 0.3rem 10px 0;
+
+}
+
+.popOperate2 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.popOperate {
+  margin: 0.3rem 0 0.48rem;
+  padding: 0 0.1rem;
+  text-align: center;
+}
+
+.popOperate p:first-child {
+  padding-right: 10px;
+  box-sizing: border-box;
+}
+
+.popOperate p:last-child {
+  padding-left: 10px;
+  box-sizing: border-box;
+}
+
+.popOperate p span, .gSearchBtn {
+  display: block;
+  height: 1.0rem;
+  line-height: 1.0rem;
+  background-image: linear-gradient(-180deg, #FFFFFF 0%, #F1F1F1 97%);
+  border: 1px solid #999999;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.20);
+  border-radius: 0.15rem;
+}
+
+.popOperate p .active, .gSearchBtn {
+  background-image: linear-gradient(-180deg, #ECEBEB 0%, #CFCFCF 97%) !important;
+}
+
+.carTypes > div:last-child {
+  margin-bottom: 0.2rem;
+}
+
+.carTypeChild .condition img {
+  left: -10px;
+  width: 0.44rem;
+
+}
+
+.carTypesCheckBox {
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.carTypeChild .condition {
+  margin-top: 0px;
+  height: 42px;
+  line-height: 42px;
+}
+
+.carTypeChild {
+  padding-top: 0.32rem;
+}
+
+.carTypeChild > div:first-child::before {
+  content: '';
+  display: inline-block;
+  width: 0.32rem;
+  height: 0.32rem;
+  background: #DEDDDD;
+  position: absolute;
+  transform: rotate(45deg);
+  top: -0.16rem;
+}
+
+/*.popCarType:after{
+	content:'X';
+	text-align: center;
+	display: inline-block;
+	width: 0.5rem;
+	height: 25px;
+	border-radius: 50%;
+	border:2px solid #BD0114;
+	position: absolute;
+	bottom: -40px;
+	left: 50%;   
+	transform:translateX(-50%);
+}*/
+
+.carTypes .carTypesBtn {
+  width: 2.0rem;
+  margin: 0.5rem 0 0.4rem 0;
+  height: 0.72rem;
+  line-height: 0.72rem;
+  display: inline-block;
+  background-image: linear-gradient(-180deg, #ECEBEB 0%, #CFCFCF 97%);
+  border: 1px solid #999999;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.20);
+  border-radius: 0.14rem;
+}
+
+.carTypeBtnBox {
+  text-align: center;
+}
+
+.selectInput {
+  font-size: 0.28rem;
+  color: #333;
+  position: relative;
+
+}
+
+.selectInput > span {
+  color: #333;
+  height: 0.66rem;
+  line-height: 0.66rem;
+  text-align: left;
+
+}
+
+.selectInput > pre {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+}
+
+.selectInput > div {
+  box-sizing: border-box;
+  color: #999;
+  background: #fff;
+  height: 0.68rem;
+  border: 1px solid #999;
+  padding: 0.15rem 1.0rem 0.15rem 0.2rem;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.selectInput > input {
+  border: none;
+}
+
+.selectInput .iconfont {
+  width: 0.9rem;
+  display: inline-block;
+  height: 0.64rem;
+  background: #F1EDED;;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+}
+
+.selectInput .icon-demo03:before {
+  color: #999;
+  font-size: 0.28rem;
+  position: absolute;
+  left: 50%;
+  line-height: 0.64rem;
+  transform: translateX(-50%)
+}
+
+.selectConditions > div {
+  margin-top: 10px;
+}
+
+.popBox .optionsBox {
+  height: 300px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.popBox .option {
+  position: relative;
+  font-size: 0.28rem;
+  border-bottom: 1px solid #ccc;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  z-index: 1
+}
+
+.optionCheckBox {
+  left: 0.32rem;
+  top: 50%;
+  transform: translateY(-50%);
+
+}
+
+.gPoP {
+  width: 100%;
+  height: 0px;
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  left: 0px;
+  transition: height .5s;
+}
+
+.gPoP.active {
+  height: 338px;
+  z-index: 1999;
+}
+
+.gPoP p {
+  text-align: right;
+}
+
+.gPoP .btn {
+  width: 50px;
+  height: 20px;
+  line-height: 20px;
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  /*border-color: #fff;*/
+  z-index: 3
+  /*float:right;*/
+}
+
+.popBox > p {
+  text-align: center;
+  font-size: 0.32rem;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  border-bottom: 1px solid #DEDDDD;
+  background: #999;
+  z-index: 2;
+
+}
+
+.popBox .optionsBox {
+  margin-top: 40px;
+}
+
+.hid {
+  display: none;
+}
+
+.selectColor {
+  color: #333 !important;
+}
+
+.gDriveLicense {
+  text-align: center;
+  margin: 10px 0 20px;
+}
+
+.gDriveLicense img {
+  width: 300px;
+}
+
+.selectConditions .selectStatus > .col-sm-8 {
+  position: relative;
+  top: -3px;
+}

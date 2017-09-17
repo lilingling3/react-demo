@@ -1,0 +1,108 @@
+
+.article{
+  margin-top: 8px;
+  min-height:168px;
+  width: 100%;
+  border-bottom: 1px dashed grey;
+}
+
+.article i{
+  font-size: .4rem;
+}
+
+.article .thumbImg{
+  width: 115px;
+  height: 115px;
+}
+
+.article .right{
+  position: relative;
+  display: inline-block;
+  width: calc(100% - 118px);
+  height: 115px;
+  vertical-align: top;
+}
+
+.article .title{
+  box-sizing: border-box;
+  height: 36px;
+  line-height: 18px;
+  padding-left: 5px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  word-break: break-all;
+  word-wrap: break-word;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.article .summary{
+  box-sizing: border-box;
+  height: 60px;
+  line-height: 12px;
+  padding-left: 5px;
+  font-size: 12px;
+  color: grey;
+  word-break: break-all;
+  word-wrap: break-word;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  overflow: hidden;
+}
+
+.article .date{
+  box-sizing: border-box;
+  height: 20px;
+  line-height: 20px;
+  font-size: 12px;
+  text-align: right;
+}
+
+.article .tag{
+  display: inline-block;
+  border-radius: 8px;
+  padding: 2px 8px;
+  margin: 0 5px;
+  font-size: 12px;
+  color: #666666;
+  background-color: lightgray;
+}
+
+.article .share i{
+  font-size: 12px;
+}
+
+.article .tag2{
+  display: inline-block;
+  padding: 2px 8px;
+  margin: 0 5px;
+  font-size: 12px;
+  color: #666666;
+}
+
+.article .tagRow{
+  position: relative;
+  width: 100%;
+  min-height: 20px;
+}
+
+.article .tagRow .tags{
+  width: calc(100% - 80px);
+  min-height: 20px;
+}
+
+.article .tagRow .share{
+  position: absolute;
+  right: 0;
+  top:3px;
+  width:80px;
+  padding: 2px 0;
+  border-radius: 8px;
+  font-size: 12px;
+  text-align: center;
+  color: white;
+  background-color: #0063ba;;
+}

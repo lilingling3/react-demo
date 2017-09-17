@@ -1,0 +1,41 @@
+.remindDialog{
+    height: 160px;
+}
+
+.remindDialog .textCenter{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: #333333;
+    margin: 15px;
+}
+
+.remindDialog .buttonRow{
+    width: 100%;
+    text-align: center;
+}
+
+.remindDialog .page{
+    width: 100%;
+    text-align: center;
+}
+
+.remindDialog .button{
+    width: 120px;
+    height: 35px;
+    margin: 10px;
+    font-size: .9rem;
+    background-color:#0070BF;
+    border: 1px solid #0070BF;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.remindDialog .buttonRow>section{
+    font-size: 13px;
+    color: grey;
+    margin: 10px;
+    text-align: left;
+}

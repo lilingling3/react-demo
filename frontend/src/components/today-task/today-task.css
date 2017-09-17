@@ -1,0 +1,271 @@
+
+.today-task {
+  height:100%;
+  background: #ECEBEB;
+  font-weight: 200;
+  overflow-y: auto;
+  z-index: 2;
+}
+
+.today-task a,img{
+  padding: 0;
+  margin: 0;
+}
+
+.today-task .selector-box {
+  font-size: .32rem;
+  text-align: center;
+}
+
+.today-task .selector-item{
+  display: inline-block;
+  width:40%;
+  padding-top: 6px;
+  height: 25px;
+  margin:5px 10px;
+  border: none;
+  border-radius: 15px;
+  color: #999999;
+}
+
+.today-task .active{
+  background-color: #999999;
+  color: white;
+}
+
+.today-task .levelHeader{
+  box-sizing: border-box;
+  height:40px;
+  line-height: 40px;
+  padding-left: 3%;
+  font-size: .32rem;
+  font-weight: 400;
+  margin:0 auto;
+  width:95%;
+  background: #d9d8d8;
+}
+
+.today-task .levelContent{
+  height:calc(100% - 41px);
+  overflow-y:auto;
+  -webkit-overflow-scrolling : touch;
+}
+
+.today-task .taskItemBox{
+  margin-top: 5px;
+  font-size: .25rem;
+}
+
+.today-task .tagHeader{
+  position: relative;
+  font-size: .26rem;
+  width:95%;
+  height:.5rem;
+  margin:.2rem auto;
+  text-align: center;
+}
+
+.today-task .tagHeaderLine{
+  position: absolute;
+  top: 50%;
+  height:1px;
+  width:100%;
+  background-color: #8e8e8e;
+  z-index: 0;
+}
+
+.today-task .tagHeaderLabel{
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  color: #8e8e8e;
+  line-height: .5rem;;
+  z-index: 2;
+  background-color: #ecebeb;
+  opacity: 1;
+}
+
+.today-task .tagItem{
+  position: relative;
+  display: table;
+  width:95%;
+  min-height:1.4rem;
+  margin:0 auto;
+  border-bottom: 1px dotted black;
+}
+
+.today-task .tagItem .tagContent{
+  position: relative;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-top: .1rem;
+  /*padding-left: 60px;*/
+  height: 100%;
+  width: 100%;
+}
+
+.today-task .tagItem .tagLevelIcon{
+  /*position: absolute;*/
+  display: table-cell;
+  vertical-align: middle;
+  /*top:50%;*/
+  /*transform: translateY(-50%);*/
+  width: 60px;
+}
+
+.today-task .tagItem .tagLevelIconCorner{
+  /*/*position: absolute;*/
+  /*display: inline-block;*/
+  
+  left:32px;
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 12px;
+  text-align: center;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  /*background-color: #ff5a00;*/
+  color: white;
+  /*border-radius: 14px;*/
+}
+
+.today-task .tagItem .tagLevelIconCorner>span{
+ 
+  display: inline-block;
+  border-radius: 14px;
+position: relative;
+top:-20px;
+left: -27px;
+  font-size: 12px;
+  text-align: center;
+  width: 28px;
+  height: 28px;
+  line-height: 28px;
+  background-color: #ff5a00;
+  color: white;
+
+}
+.today-task .tagItem .tagContent .userName{
+  font-size: .33rem;
+  font-weight: 400;
+}
+
+.today-task .tagItem .tagContent .other{
+  padding-left: .2rem;
+  font-size: .25rem;
+  line-height: .45rem;
+  color: gray;
+}
+
+.today-task .tagItem .tagContent .other2{
+  font-size: .25rem;
+  line-height: .45rem;
+  color: gray;
+}
+
+.today-task .tagItem .tagContent .walkInDate{
+  font-size: .25rem;
+  font-weight: 800;
+  padding-left: .2rem;
+  line-height: .45rem;
+  color: black;
+}
+
+.today-task .tagItem .tagContent .dot1{
+  position: absolute;
+  right:0;
+  top: 20%;
+  width:8px;
+  height:8px;
+  background-color:#C6C6C6;
+}
+
+.today-task .tagItem .tagContent .dot2{
+  position: absolute;
+  right:0;
+  top:40%;
+  width:8px;
+  height:8px;
+  background-color:#C6C6C6;
+}
+
+.today-task .tagItem .tagContent .dot3{
+  position: absolute;
+  right:0;
+  top:60%;
+  width:21px;
+  height:14px;
+  color: white;
+  text-align: center;
+  background-color:#447395;
+}
+
+.today-task .tagBtnBox{
+  height:38px;
+  text-align: center;
+}
+
+.today-task .tagBtnBox .tagBtn{
+  display: inline-block;
+  height:38px;
+  line-height: 39px;
+  width: 60px;
+  margin: 0 19px;
+  font-size: .28rem;
+  color: white;
+  background-color: #999999;
+}
+
+.today-task .callPhone{
+  display: inline-block;
+  float: left;
+  background-color: pink;
+  border:1px solid red;
+  width:60px;
+  height: 60px;
+  background:url(assets/image/tel-bg.png) no-repeat fixed top;
+}
+
+.today-task-tp {
+  font-size: .5rem;
+  height:505px;
+}
+
+.today-task-tp .tipWrapper {
+  width:100%;
+  font-size: .35rem;
+  overflow-x:auto;
+}
+
+.today-task-tp .tipContent {
+  background-color: #e9e8e8;
+  height:380px;
+  overflow-y: auto;
+  font-size: .32rem;
+  line-height: .6rem;
+}
+
+.today-task-tp .tipFooter {
+  text-align: center;
+  height:70px;
+  line-height: 65px;
+}
+
+.today-task-tp .tipFooter .cancelBtn{
+  border-radius: 20px;
+  padding:7px 36px;
+  margin:0 10%;
+  font-size: .35rem;
+  background-color: #5b5b5b;
+  color:white;
+}
+
+.today-task-tp .tipFooter .confirmBtn{
+  border-radius: 20px;
+  padding:7px 36px;
+  margin:0 10%;
+  font-size: .35rem;
+  background-color: #28c325;
+  color:white;
+}

@@ -1,0 +1,98 @@
+%!Adobe-FontList 1.04
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PorscheFranklinGothic-Cond
+FamilyName:Porsche Franklin Gothic Cond
+StyleName:Regular
+FullName:Porsche Franklin Gothic Condensed
+WritingScript:Roman
+OutlineFileName:\LT_21019.ttf
+DataFormat:sfntData
+FileLength:50941
+WeightClass:400
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PorscheFranklinGothic-CondIt
+FamilyName:PORSCHE Franklin Gothic Cond
+StyleName:Italic
+FullName:Porsche Franklin Gothic Condensed Italic
+WritingScript:Roman
+OutlineFileName:\LT_21020.ttf
+DataFormat:sfntData
+FileLength:56587
+WeightClass:400
+WidthClass:3
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PorscheNewsGothic-Regular
+FamilyName:Porsche News Gothic
+StyleName:Regular
+FullName:Porsche News Gothic Regular
+WritingScript:Roman
+OutlineFileName:\LT_21021.ttf
+DataFormat:sfntData
+FileLength:40182
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PorscheNewsGothic-Italic
+FamilyName:Porsche News Gothic
+StyleName:Italic
+FullName:Porsche News Gothic Italic
+WritingScript:Roman
+OutlineFileName:\LT_21022.ttf
+DataFormat:sfntData
+FileLength:40334
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PorscheNewsGothic-Bold
+FamilyName:Porsche News Gothic
+StyleName:Bold
+FullName:Porsche News Gothic Bold
+WritingScript:Roman
+OutlineFileName:\LT_21023.ttf
+DataFormat:sfntData
+FileLength:40094
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PorscheNewsGothic-BoldItalic
+FamilyName:Porsche News Gothic
+StyleName:Bold Italic
+FullName:Porsche News Gothic Bold Italic
+WritingScript:Roman
+OutlineFileName:\LT_21024.ttf
+DataFormat:sfntData
+FileLength:40314
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+

@@ -1,0 +1,99 @@
+/*首先，我们要创建一个容器class*/
+.times {
+	display:block;
+	margin:15px 0;
+}
+/*利用ul标签的特性，设置外边框左移25px，左边边框是2px粗的实心线，颜色一般要浅一点*/
+.times ul {
+	margin-left:25px;
+	border-left:2px solid #ddd;
+}
+/*一般情况，通过li标签控制圆点回到时间线上，然后控制要出现的文字大小和是否粗体*/
+.times ul li {
+	list-style:none;
+	width:100%;
+	margin-left:-14px;
+	font-weight:narmal;
+	padding-bottom: 25px;
+	position: relative;
+}
+/*利用处理加粗以外没有其它特别属性b标签做时间轴的圆点。*/
+
+.times ul li:first-child b,.times ul li:last-child b{
+		background:#FF9966;
+}
+.times ul li b {
+	width:14px;
+	height:14px;
+		background:#3BACE3;
+	margin-left:6px;
+	border-radius:50%;
+	-webkit-border-radius:50%;
+	-moz-border-radius:50%;
+	overflow:hidden;
+	display:inline-block;
+	float:left;
+	/*text-align: center;*/
+	line-height: 14px;
+	position: relative;
+}
+.times ul li b i{
+	display: inline-block;
+	width: 6px;
+	height: 6px;
+	border: 2px solid #fff;
+	border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  top:50%;
+  transform: translate(-50%,-50%);
+
+}
+
+/*设置span标签的属性，让它来做时间显示，加一点边距，使时间显示离时间线远一点*/
+.times ul li>p {
+	padding-left:25px;
+	font-size:0.3rem;
+	line-height:20px;
+	color:#333;
+}
+.times ul li p span{
+	color:#999;
+	font-size: 0.26rem;
+}
+
+
+.times ul li div {
+	margin-left:25px;
+	width: calc(100% - 81px);
+
+}
+.comContent{
+		margin-top: 10px;
+		font-size: 0.28rem;
+}
+.comDetail{
+	margin-top: 8px;
+	padding:7.5px;
+	border:1px solid #ddd;
+	font-size: 0.28rem;
+	color: #333;
+	line-height: 16px;
+}
+.times ul li>i{
+position: absolute;
+right: -4px;	
+top:0px;
+transition:height .3s;
+color:#0070BF;
+}
+
+.times ul li .icon-gengduo:before { content: "\e667";
+font-size: 0.5rem;
+
+
+ }
+.times ul li>.active {
+	transform: rotate(90deg);
+	color: #0070BF;;
+}

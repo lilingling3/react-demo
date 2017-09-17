@@ -1,0 +1,120 @@
+
+.self-info{
+  font-size: .32rem;
+  height:100%;
+  background-color: #FFFFFF;
+}
+
+.self-info h1{
+  font-size: .8rem;
+  border: 1px solid green;
+  text-align: center;
+}
+
+.self-info .self-item{
+  height:.7rem;
+  padding:10px 10px;
+  border-bottom:1px solid #f1f1f1;
+}
+
+.self-info .self-item img{
+  float: left;
+  width: 35px;
+}
+
+.self-info .self-item .self-name{
+  float: left;
+  margin: 10px;
+}
+
+.self-info .self-item .self-value{
+  float: right;
+  margin: 10px;
+  color:#999999;
+}
+
+.self-info .self-item-address{
+  height:1.4rem;
+  padding:10px 10px;
+  /*border-bottom:1px solid #f1f1f1;*/
+}
+
+.self-info .self-item-address img{
+  float: left;
+  width: 35px;
+}
+
+.self-info .self-item-address .self-name{
+  float: left;
+  margin: 10px;
+}
+
+.self-info .self-item-address .self-value{
+  float: left;
+  margin: 10px 45px;
+  color:#999999;
+}
+
+.self-info .self-item .right-arrow{
+  width:15px;
+  height:15px;
+  float: right;
+  margin: 10px;
+  content: '';
+  display: block;
+  border-right: 1px solid #888;
+  border-top: 1px solid #888;
+  -webkit-transform: rotate(35deg); /*箭头方向可以自由切换角度*/
+  transform: rotate(45deg);
+}
+
+
+/*
+.self-info .self-item .left{
+  display: inline-block;
+  width:1.5rem;
+  height: 100%!important;
+  border: 1px solid red;
+  vertical-align: top;
+}
+
+.self-info .self-item .center{
+  display: inline-block;
+  width:calc(100% - 3rem - 20px);
+  height: 100%!important;
+  border: 1px solid red;
+  vertical-align: top;
+}
+
+.self-info .self-item .center .label{
+  display: inline-block;
+  width:calc(100% - 50px);
+  height: 100%;
+  line-height: 35px;
+  vertical-align: top;
+}
+
+.self-info .self-item .center .corner{
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height:100%;
+  background-color: darkgrey;
+}
+
+.self-info .self-item .center .corner .icon{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  font-size: .5rem;
+  transform: translate(-50%,-50%);
+}
+
+.self-info .self-item .right{
+  display: inline-block;
+  width:1.5rem;
+  height: 100%!important;
+  border: 1px solid red;
+  vertical-align: top;
+}
+*/

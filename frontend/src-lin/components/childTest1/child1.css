@@ -1,0 +1,35 @@
+.TaskItemHeader{
+    height: 3.75rem;
+    line-height: 3.75rem;
+    text-align: left;
+    font-size: 16px;
+    text-indent: 2.25rem;
+    background: #EFEDED;
+    margin: 0 0 .9375rem 0;
+}
+.tagItemHeader {
+    text-align: center;
+    color: #8D8989;
+    font-size: 1rem;
+    width: 100%;
+}
+.tagItemHeader .line{
+    display: inline-block;
+    width: 20%;  
+    border-top: 1px solid #ccc ;  
+}
+
+.tagItemHeader .txt{
+    color: #686868;  
+    vertical-align: middle;  
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 10px;
+}
+.itemBox{
+    display: flex;
+    align-items: center;
+}
+.tagLevelIcon{
+   margin:  0.4rem 2rem
+}

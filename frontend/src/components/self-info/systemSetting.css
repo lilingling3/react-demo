@@ -1,0 +1,102 @@
+.self-info-ss {
+    height: 100%;
+    font-size: .30rem;
+    background-color: white;
+}
+
+.self-info-ss .header {
+    font-size: .32rem;
+    position: relative;
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 38px;
+    line-height: 38px;
+}
+
+.self-info-ss .headerIcon {
+    position: absolute;
+    font-size: .5rem;
+    left: .1rem;
+    top: 2px;
+}
+
+.self-info-ss .appIcon {
+    text-align: center;
+    border-bottom: 1px solid #f1f1f1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.self-info-ss .appIcon img {
+    width: 75px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    align: center;
+}
+
+.self-info-ss .versionCompare {
+    height: 38px;
+    border-bottom: 1px solid #f1f1f1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.self-info-ss .versionCompare .left {
+    line-height: 38px;
+    float: left;
+}
+
+.self-info-ss .versionCompare .right {
+    line-height: 38px;
+    float: right;
+}
+
+.self-info-ss .versionIntroduce {
+    border-bottom: 1px solid #f1f1f1;
+    margin-left: 10px;
+    margin-right: 10px;
+    min-height: 38px;
+}
+
+.self-info-ss .versionIntroduce .left {
+    line-height: 38px;
+}
+
+.self-info-ss .versionIntroduce i {
+    float: right;
+    line-height: 38px;
+    transition: height .3s;
+    color: #ff6600;
+}
+
+.self-info-ss .versionIntroduce .icon-gengduo:before {
+    content: "\e667";
+    font-size: 0.5rem;
+}
+
+.self-info-ss .versionIntroduce .active {
+    transform: rotate(90deg);
+    color: #3BACE3;
+}
+
+.self-info-ss .versionIntroduce .comDetail {
+    margin-top: 8px;
+    padding: 7.5px;
+    border: 1px solid #ddd;
+    font-size: 0.28rem;
+    color: #333;
+    /*line-height: 16px;*/
+}
+
+.self-info-ss .versionDownload {
+    line-height: 38px;
+    border-bottom: 1px solid #f1f1f1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.self-info-ss .dontUpdate {
+    display: none;
+}
+

@@ -1,0 +1,183 @@
+.latentCustomer{
+ margin:12px;
+ position: relative;
+}
+
+/*防止ios点不中*/
+.latentCustomer input{
+  cursor:pointer
+}
+
+.latentCustomer .icon-bi-copy{
+  position: absolute;
+  right: 2px;
+  top:1px;
+}
+.latentCustomer ul li{
+  list-style: none;
+  font-size: 0.25rem;
+  border-bottom: 1px solid #ddd;
+  height: 0.7rem;
+  line-height: 0.7rem;
+  color: #333;
+}
+
+.latentCustomer .description{
+  font-size: 0.25rem;
+  height: 26px;
+  line-height: 26px;
+}
+
+.latentCustomer .description div{
+  width: 100%;
+  min-height: 50px;
+  border:1px solid #ddd;
+  margin:2px 0 50px;
+  border-radius: 4px;
+}
+
+.latentCustomer .icon-bi-copy:before { content: "\e607"; }
+
+.createCustomer{
+  margin:0 10px 10px 10px;
+  padding-top: 10px;
+  overflow-x: hidden;
+}
+/*防止ios点不中*/
+.createCustomer input{
+  cursor:pointer
+}
+
+.createCustomer .reception{
+  height: 44px;
+  line-height: 44px;
+  padding: 0 10px;
+  background: #ECEBEB;
+}
+
+.createCustomer {
+  font-size: 0.28rem;
+}
+.createCustomer section>div{
+  position: relative;
+  margin-top: 6px;
+  
+}
+.btn2Box{
+  text-align: center!important;
+  box-sizing: border-box;
+  padding-left: 4px;
+}
+.createCustomer .splitLine span{
+  background: #fff;
+}
+
+.createCustomer .reception{
+  position: relative;
+  
+}
+
+.createCustomer .onlyShow{
+position: relative;
+top: 3px;
+
+}
+.btn2{
+  float: right;
+  /*padding-left: 2px;*/
+  background-image: linear-gradient(-180deg, #ECEBEB 0%, #CFCFCF 97%);
+  border: 1px solid #999999;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.20);
+  border-radius: 7px;
+  box-sizing: border-box;
+}
+.latentCustomer .buyCay{
+  margin-left: 15px;
+
+}
+.latentCustomer  .buyCay>div{
+  margin-top: 16px;
+}
+
+.latentCustomer .geography>div{
+  width: 100%;
+
+}
+
+
+.createCustomer .selectInput>input{
+  color:#333;
+  border-color: #999;
+}
+.createCustomer .selectInput>div{
+  border-color:#999;
+}
+.createCustomer .bugCarType{
+  height: 0.72rem;
+  line-height: 0.72rem;
+}
+
+.createCustomer section .splitLine{
+  margin-top: 22px;
+  margin-bottom: 14px;
+}
+
+.createCustomer section .selectStatus{
+  margin:18px 0 8px;
+  position: relative;
+  top: -0.2rem;
+
+}
+
+
+
+.createCustomer .onoffswitch {
+  right: 12px;
+  top:50%;
+  transform: translateY(-50%);
+  position: absolute; width: 50px;
+  -webkit-user-select:none; 
+  -moz-user-select:none;
+  -ms-user-select: none;
+}
+.createCustomer .onoffswitch-checkbox {
+  display: none;
+}
+.createCustomer .onoffswitch-label {
+  display: block; overflow: hidden; cursor: pointer;
+  border: 2px solid #ECEBEB; border-radius: 15px;
+}
+.createCustomer .onoffswitch-inner {
+  display: block; width: 200%; margin-left: -100%;
+  transition: margin 0.3s ease-in 0s;
+}
+.createCustomer .onoffswitch-inner:before,.createCustomer  .onoffswitch-inner:after {
+  display: block; float: left; width: 50%; height: 20px; padding: 0; line-height: 20px;
+  font-size: 11px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+  box-sizing: border-box;
+}
+.createCustomer  .onoffswitch-inner:before {
+  content: "公司";
+  padding-left: 3px;
+  background-color: #34A7C1; color: #FFFFFF;
+}
+.createCustomer  .onoffswitch-inner:after {
+  content: "个人";
+  padding-right: 3px;
+  background-color: #464646; color: #FFFFFF;
+  text-align: right;
+}
+.createCustomer  .onoffswitch-switch {
+  display: block; width: 15px; margin: 2.5px;
+  background: #FFFFFF;
+  position: absolute; top: 0; bottom: 0;
+  right: 26px;
+  border: 2px solid #ECEBEB; border-radius: 15px;
+  transition: all 0.3s ease-in 0s; 
+}
+.createCustomer .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+  margin-left: 0;
+}
+.createCustomer .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+  right: 0px; 
+}

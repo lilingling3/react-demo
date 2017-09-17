@@ -1,0 +1,148 @@
+.welcome-page{
+  box-sizing: border-box;
+  width:100%;
+  height:100vh;
+  padding-top: 90%;
+  background-image: url('assets/image/welcome.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.login-page{
+  box-sizing: border-box;
+  width:100%;
+  /*height:100vh;*/
+  height:100%;
+  font-size: .35rem;
+  font-weight: 300;
+  background-image: url('assets/image/login-bg.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.login-page .title{
+  position: relative;
+  text-align: center;
+  padding-top: 300px;
+  font-size: 1rem;
+}
+
+.login-page .title .clickArea{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 80px;
+  height: 80px;
+}
+
+.login-page .rowGap{
+  width: 300px;
+  height: 6%;
+}
+
+.login-page .grayBottom{
+  border-bottom: 1px solid lightgray;
+}
+
+.login-page .row{
+  width: 300px;
+  height: 48px;
+  line-height: 48px;
+  margin: 0 auto;
+  font-size: .35rem;
+}
+
+.login-page .row .label{
+  color: #61afef;
+  display: inline-block;
+  width: 28%;
+}
+
+.login-page .row .phoneNumber{
+  display: inline-block;
+  width: calc(70% - 30px);
+  background-color: transparent;
+  font-size: .4rem;
+}
+
+
+.login-page .row .rememberBox{
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  border-radius: 18px;
+  line-height: 19px;
+  vertical-align: middle;
+  text-align: center;
+}
+
+
+.login-page .row .bd1{
+  border:1px solid #0065b7;
+}
+
+.login-page .row .bd2{
+  border:1px solid grey;
+}
+
+.login-page .row .rememberBox .remember{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  color: #0065b7;
+  font-weight: 900;
+  font-size: .26rem;
+}
+
+.login-page .row .rememberBox .notremember{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  color: grey;
+  background-color: transparent;
+  font-size: .26rem;
+}
+
+.login-page .row .phoneCode{
+  display: inline-block;
+  width: 30%;
+  background-color: transparent;
+  font-size: .4rem;
+  /*color: #0065b7;*/
+  /*text-shadow: 0px 0px 0px #000;*/
+  /*-webkit-text-fill-color: transparent;*/
+}
+
+.login-page .row .codeBtn{
+  display: inline-block;
+  background-color: #0065b7;
+  border: none;
+  width: 40%;
+  height: 38px;
+  line-height: 39px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 200;
+  font-size: .3rem;
+}
+
+.login-page .loginBtn{
+  display: inline-block;
+  background-color: #0065b7;
+  border: none;
+  width: 100%;
+  height: 50px;
+  line-height: 39px;
+  border-radius: 25px;
+  color: white;
+  font-weight: 200;
+  font-size: .5rem;
+}
+
+
+.login-page .hasProblem{
+  width: 80%;
+  text-align: center;
+  color: grey;
+  font-size: .3rem;
+}

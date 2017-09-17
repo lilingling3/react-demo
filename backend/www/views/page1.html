@@ -1,0 +1,102 @@
+
+uid come from locals:{{uid}}
+
+{{#with data}}
+<table>
+  {{uid}}
+  <tbody>
+  {{#each list as |item| }}
+  <tr id="tr{{@index}}">
+    <td>{{item.bookName}}</td>
+    <td>{{item.author}}</td>
+  </tr>
+  {{/each}}
+  </tbody>
+</table>
+
+<br/>
+<h1>{{name}}</h1>
+<h1>{{age}}</h1>
+<h1>{{kpiData}}</h1>
+
+<h2>输入1提交，刷新该页面的图书列表</h2>
+<h2>输入2提交，返回json对象</h2>
+<h2>输入3提交，重定向页面</h2>
+<h2>输入4提交，下载一个文件</h2>
+<form method="post" action="./commit-cmd">
+  <input type="text" name="cmd" placeholder="cmd-placehoder" value="{{cmd}}"/>
+  <input type="submit" value="提交cmd值"/>
+</form>
+{{/with}}
+
+{{#Y}}{{/Y}}
+show helper:
+{{#JSON_stringify data}}{{/JSON_stringify}}
+{{#Yujie 'gogogo'}}{{/Yujie}}
+
+
+<hr/>
+<h1>演示提交图片文件</h1>
+<fieldset>
+  <input type="file" id="vin_pic" name="vin_pic" size="5" accept="image/*" />
+  <button onclick="submitImg()">提交图片</button>
+</fieldset>
+<br/>
+<hr/>
+<h1>演示提交excel后端解析成json对象</h1>
+<fieldset>
+  <input type="file" id="excel_file" name="excel_file" size="5" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+  <button onclick="submitExcel()">提交excel</button>
+</fieldset>
+
+
+
+<script>
+  function submitImg(){
+    var file  =document.getElementById("vin_pic").files[0];
+    var postData = {a:1,b:2,c:[1,2,4],d:{a:1,b:2}};
+    postFormWithFile('/test/save-vin-pic', file, 'vin_pic', postData, function(reply){
+      alert(reply);
+    }, function(err){
+      alert(err);
+    })
+  }
+
+  function submitExcel() {
+    var file = document.getElementById("excel_file").files[0];
+    var postData = {a: 1, b: 2, c: [1, 2, 4], d: {a: 1, b: 2}};
+    postFormWithFile('/test/parse-excel', file, 'excel_file', postData, function (reply) {
+      alert(reply);
+    }, function (err) {
+      alert(err);
+    })
+  }
+
+
+  function postFormWithFile(url, file, fieldName, postData, onError, onSuccess) {
+    var xhr = new XMLHttpRequest();
+    var formData = new FormData();
+    formData.append(fieldName, file, file.name);
+    formData.append('data', JSON.stringify(postData));
+    xhr.open('POST', url, true);
+
+    xhr.onload = function () {
+      if (xhr.status >= 200 && xhr.status <= 400) {
+        onSuccess(xhr.responseBody || JSON.parse(xhr.responseText), xhr);
+      } else {
+        onError(new Error(xhr.responseBody));
+      }
+    };
+
+    xhr.onreadystatechange = function () {
+      console.log(xhr);
+      if (xhr.readyState === 4) {
+        if (xhr.status =0 ) {//net::ERR_INTERNET_DISCONNECTED
+          return alert('您的网络不好,请稍后重试');
+        }
+      }
+    };
+    xhr.send(formData);
+  }
+</script>
+

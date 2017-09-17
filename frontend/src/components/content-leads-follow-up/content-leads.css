@@ -1,0 +1,138 @@
+.contentleads {
+    height:100%;
+    background-color: #FFFFFF;
+    /*background-color: red;*/
+    font-size: .30rem;
+}
+
+.contentleads .top {
+    /*padding:0.2rem;*/
+    box-sizing: border-box;
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    background: #FFFFFF;
+    border-bottom:1px dashed #999999;
+}
+
+.contentleads input[type=submit],input[type=reset],input[type=button],input[type=text]{
+    -webkit-appearance:none;  //去除input默认样式
+}
+
+.contentleads .sousuo {
+    box-sizing: border-box;
+    position: relative;
+    padding: .2rem;
+    width: 100%;
+    left: 0px;
+}
+
+.contentleads .sousuo input {
+    box-sizing: border-box;
+    padding: .1rem;
+    padding-left: 1.28rem;
+    width: 100%;
+    border: 1px solid #999999;
+    /*border-radius:none;*/
+}
+
+/*.contentleads .sousuo ::-webkit-input-placeholder {*/
+    /*padding-left: 1.2rem;*/
+/*}*/
+
+.contentleads .sousuo ::-moz-placeholder {
+    padding-left: 1.2rem;
+}
+
+.contentleads .sousuo :-ms-input-placeholder {
+    padding-left: 1.2rem;
+}
+
+.contentleads .selector-box {
+    font-size: .32rem;
+    text-align: center;
+    margin-top: -6px;
+    margin-bottom:2px;
+}
+
+.contentleads .selector-item {
+    display: inline-block;
+    width: calc(50% - 20px);
+    padding-top: 6px;
+    height: 25px;
+    margin: 5px 10px;
+    border: none;
+    border-radius: 15px;
+    color: #999999;
+}
+
+.contentleads .active {
+    background-color: #999999;
+    color: white;
+}
+
+.contentleads .contentleadsList {
+    font-size:.32rem;
+    position: absolute;
+    top: 90px;
+    left: 0;
+    right: 0;
+    height: calc(100% - 90px);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.contentleads .contentleadsList ul {
+    padding: 0 0.22rem;
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+.contentleads .contentleadsList ul li{
+    height:33px;
+    position: relative;
+    border-bottom: 1px dashed #000;
+    color:#333333;
+}
+
+.contentleads .contentleadsList ul li b{
+    padding-left: 15px;
+}
+
+.contentleads .contentleadsList ul li .left{
+    text-align:left;
+    position: relative;
+    display:inline-block;
+    width:33%;
+    line-height:33px;
+}
+
+.contentleads .contentleadsList ul li .center{
+    text-align:center;
+    position: relative;
+    display:inline-block;
+    width:33%;
+    line-height:33px;
+}
+
+.contentleads .contentleadsList ul li .right{
+    text-align:right;
+    position: relative;
+    display:inline-block;
+    width:34%;
+    line-height:33px;
+}
+.contentleads .contentleadsList ul li .right .createContact{
+    text-decoration:underline;
+    color:blue;
+}
+.contentleads .contentleadsList ul li .right .giveUp{
+    text-decoration:underline;
+    color:blue;
+}
+.contentleads .contentleadsList ul li .right .followedState{
+
+}

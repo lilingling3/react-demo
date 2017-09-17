@@ -1,0 +1,115 @@
+.editCardInfo {
+    font-size: .32rem;
+    background-color: #e9e8e8;
+    height: 100%;
+    overflow: scroll;
+}
+
+.editCardInfo .header {
+    font-size: .32rem;
+    position: relative;
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 38px;
+    line-height: 38px;
+}
+
+.editCardInfo .headerIcon {
+    position: absolute;
+    font-size: .5rem;
+    left: .1rem;
+    top: 2px;
+}
+
+.editCardInfo .filePicker {
+    display: none;
+}
+
+.editCardInfo .avatar {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 2px;
+}
+
+.editCardInfo .avatar img {
+    width: 70px;
+    height: 70px;
+}
+
+.editCardInfo .cardItem {
+    text-align: center;
+    height: 30px;
+    padding: 8px;
+}
+
+/*placeholder 水平居中*/
+.editCardInfo .cardItem input:-ms-input-placeholder {
+    text-align: center;
+}
+
+.editCardInfo .cardItem input::-webkit-input-placeholder {
+    text-align: center;
+}
+
+.editCardInfo .cardItem input {
+    line-height: 30px;
+    width: 70%;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+.editCardInfo .cardItem .paizhaoIcon {
+    position: relative;
+    width: 20px;
+    /*padding-right:8px;*/
+    /*margin-left:-24px;*/
+    top: 3px;
+    padding-right: 7px;
+    margin-left: -26px;
+}
+
+.editCardInfo .cardItem .ewminput {
+    width: calc(70% - 20px);
+    padding-right: 30px;
+}
+
+.editCardInfo .cardItem .submitButton {
+    height: 35px;
+    line-height: 35px;
+    width: 45%;
+    border: 1px solid #999999;
+    border-radius: 6px;
+}
+
+.editCardInfo .cardSpecialItem {
+    text-align: left;
+    height: 30px;
+    color: #999999;
+    padding-left: 7px;
+    padding-top: 2px;
+}
+
+.editCardInfo .cardSpecialItem .questionItem {
+    height: 30px;
+    line-height: 30px;
+    color: #ffffff;
+    background-color: #999999;
+    margin-left: 12%;
+    margin-right: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 15px;
+}
+
+.editCardInfo .cardSpecialItem .setDefaultItem {
+    position: relative;
+    transform: translateX(-50%);
+    width: 6px;
+    height: 6px;
+    line-height: 30px;
+    color: #ffffff;
+    margin-left: 14%;
+    margin-right: 7px;
+}

@@ -1,0 +1,302 @@
+[2017-05-05 14:20:43.437] [INFO] startUp - [master] ......start boldseas CIAM server with cluster mode.......
+[2017-05-05 14:20:43.441] [INFO] startUp - [master] -----------------[APP_ENV]----------------------
+[2017-05-05 14:20:43.441] [INFO] startUp - [master] the APP_ENV for project:dev
+[2017-05-05 14:20:43.441] [INFO] startUp - [master] -------------------------------------------------
+[2017-05-05 14:20:43.442] [INFO] startUp - [master] 1 cpu(s) found
+[2017-05-05 14:20:43.816] [INFO] startUp - [master] worker:1 is now connected to 3222
+[2017-05-05 14:20:43.816] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:20:55.809] [INFO] startUp - [master] ......start boldseas CIAM server with cluster mode.......
+[2017-05-05 14:20:55.813] [INFO] startUp - [master] -----------------[APP_ENV]----------------------
+[2017-05-05 14:20:55.813] [INFO] startUp - [master] the APP_ENV for project:dev
+[2017-05-05 14:20:55.813] [INFO] startUp - [master] -------------------------------------------------
+[2017-05-05 14:20:55.813] [INFO] startUp - [master] 1 cpu(s) found
+[2017-05-05 14:20:56.107] [INFO] startUp - [master] worker:1 is now connected to 3222
+[2017-05-05 14:20:56.107] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:22:10.875] [INFO] startUp - [master] ......start boldseas CIAM server with cluster mode.......
+[2017-05-05 14:22:10.879] [INFO] startUp - [master] -----------------[APP_ENV]----------------------
+[2017-05-05 14:22:10.880] [INFO] startUp - [master] the APP_ENV for project:dev
+[2017-05-05 14:22:10.880] [INFO] startUp - [master] -------------------------------------------------
+[2017-05-05 14:22:10.880] [INFO] startUp - [master] 1 cpu(s) found
+[2017-05-05 14:22:11.269] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:22:11.269] [INFO] startUp - [master] worker:1 is now connected to 3222
+[2017-05-05 14:26:41.069] [INFO] startUp - [master] ......start boldseas CIAM server with cluster mode.......
+[2017-05-05 14:26:41.072] [INFO] startUp - [master] -----------------[APP_ENV]----------------------
+[2017-05-05 14:26:41.073] [INFO] startUp - [master] the APP_ENV for project:dev
+[2017-05-05 14:26:41.073] [INFO] startUp - [master] -------------------------------------------------
+[2017-05-05 14:26:41.073] [INFO] startUp - [master] 1 cpu(s) found
+[2017-05-05 14:26:41.450] [INFO] startUp - [master] worker:1 is now connected to 3222
+[2017-05-05 14:26:41.450] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:27:10.310] [INFO] startUp - [master] ......start boldseas CIAM server with cluster mode.......
+[2017-05-05 14:27:10.314] [INFO] startUp - [master] -----------------[APP_ENV]----------------------
+[2017-05-05 14:27:10.315] [INFO] startUp - [master] the APP_ENV for project:dev
+[2017-05-05 14:27:10.315] [INFO] startUp - [master] -------------------------------------------------
+[2017-05-05 14:27:10.315] [INFO] startUp - [master] 1 cpu(s) found
+[2017-05-05 14:27:10.612] [INFO] startUp - [master] worker:1 is now connected to 3222
+[2017-05-05 14:27:10.612] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:27:46.207] [INFO] startUp - [master] ......start boldseas CIAM server with cluster mode.......
+[2017-05-05 14:27:46.211] [INFO] startUp - [master] -----------------[APP_ENV]----------------------
+[2017-05-05 14:27:46.211] [INFO] startUp - [master] the APP_ENV for project:dev
+[2017-05-05 14:27:46.211] [INFO] startUp - [master] -------------------------------------------------
+[2017-05-05 14:27:46.212] [INFO] startUp - [master] 1 cpu(s) found
+[2017-05-05 14:27:46.505] [INFO] startUp - [master] worker:1 is now connected to 3222
+[2017-05-05 14:27:46.505] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:28:31.954] [INFO] startUp - [master] ......start boldseas CIAM server with cluster mode.......
+[2017-05-05 14:28:31.958] [INFO] startUp - [master] -----------------[APP_ENV]----------------------
+[2017-05-05 14:28:31.959] [INFO] startUp - [master] the APP_ENV for project:dev
+[2017-05-05 14:28:31.959] [INFO] startUp - [master] -------------------------------------------------
+[2017-05-05 14:28:31.959] [INFO] startUp - [master] 8 cpu(s) found
+[2017-05-05 14:28:32.487] [INFO] startUp - [master] worker:6 is now connected to 3222
+[2017-05-05 14:28:32.486] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 14:28:32.487] [INFO] startUp - [master] worker:7 is now connected to 3222
+[2017-05-05 14:28:32.487] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 14:28:32.488] [INFO] startUp - [master] worker:5 is now connected to 3222
+[2017-05-05 14:28:32.488] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 14:28:32.493] [INFO] startUp - [master] worker:1 is now connected to 3222
+[2017-05-05 14:28:32.493] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:28:32.504] [INFO] startUp - [master] worker:8 is now connected to 3222
+[2017-05-05 14:28:32.504] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 14:28:32.505] [INFO] startUp - [master] worker:2 is now connected to 3222
+[2017-05-05 14:28:32.505] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 14:28:32.507] [INFO] startUp - [master] worker:4 is now connected to 3222
+[2017-05-05 14:28:32.507] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 14:28:32.515] [INFO] startUp - [master] worker:3 is now connected to 3222
+[2017-05-05 14:28:32.515] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 14:54:14.554] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 14:54:14.570] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 14:54:14.580] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 14:54:14.580] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 14:54:14.585] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 14:54:14.598] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 14:54:14.600] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 14:54:14.602] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:00:12.764] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:00:12.769] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:00:12.783] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:00:12.791] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:00:12.796] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:00:12.800] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:00:12.803] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:00:12.818] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:01:44.282] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:01:44.282] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:01:44.283] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:01:44.283] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:01:44.285] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:01:44.291] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:01:44.292] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:01:44.298] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:03:26.551] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:03:26.565] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:03:26.584] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:03:26.584] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:03:26.587] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:03:26.596] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:03:26.598] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:03:26.607] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:05:32.264] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:05:32.264] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:05:32.265] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:05:32.265] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:05:32.271] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:05:32.272] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:05:32.272] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:05:32.275] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:06:35.780] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:06:35.784] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:06:35.795] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:06:35.803] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:06:35.811] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:06:35.817] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:06:35.818] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:06:35.819] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:08:42.908] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:08:42.910] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:08:42.911] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:08:42.912] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:08:42.914] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:08:42.924] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:08:42.926] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:08:42.927] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:09:07.577] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:09:07.592] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:09:07.617] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:09:07.626] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:09:07.630] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:09:07.631] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:09:07.638] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:09:07.647] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:09:43.314] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:09:43.315] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:09:43.317] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:09:43.321] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:09:43.321] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:09:43.325] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:09:43.329] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:09:43.329] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:11:58.902] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:11:58.906] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:11:58.908] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:11:58.908] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:11:58.909] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:11:58.912] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:11:58.913] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-05 15:11:58.915] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:12:51.174] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-05 15:12:51.176] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-05 15:12:51.181] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-05 15:12:51.182] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-05 15:12:51.184] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-05 15:12:51.196] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-05 15:12:51.203] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-05 15:12:51.213] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:36:13.739] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:36:13.739] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:36:13.740] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:36:13.741] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:36:13.742] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:36:13.743] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:36:13.746] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:36:13.750] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:38:19.640] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:38:19.641] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:38:19.646] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:38:19.650] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:38:19.654] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:38:19.661] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:38:19.666] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:38:19.668] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:41:33.217] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:41:33.224] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:41:33.227] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:41:33.236] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:41:33.254] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:41:33.262] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:41:33.280] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:41:33.287] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:42:13.555] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:42:13.555] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:42:13.561] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:42:13.566] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:42:13.573] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:42:13.576] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:42:13.578] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:42:13.581] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:44:40.749] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:44:40.749] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:44:40.758] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:44:40.762] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:44:40.765] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:44:40.775] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:44:40.775] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:44:40.778] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:46:42.615] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:46:42.617] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:46:42.643] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:46:42.648] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:46:42.648] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:46:42.666] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:46:42.666] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:46:42.666] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:50:12.464] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:50:12.465] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:50:12.471] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:50:12.472] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:50:12.473] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:50:12.474] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:50:12.474] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:50:12.481] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:51:58.582] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:51:58.582] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:51:58.583] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:51:58.583] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:51:58.591] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:51:58.592] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:51:58.594] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:51:58.594] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:53:31.868] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:53:31.869] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:53:31.869] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:53:31.871] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:53:31.872] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:53:31.874] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:53:31.877] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:53:31.878] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:54:33.708] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:54:33.719] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:54:33.720] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-05-23 13:54:33.721] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:54:33.722] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:54:33.722] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:54:33.727] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:54:33.727] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:55:05.829] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-05-23 13:55:05.830] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-05-23 13:55:05.841] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-05-23 13:55:05.846] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-05-23 13:55:05.856] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-05-23 13:55:05.858] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-05-23 13:55:05.860] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-05-23 13:55:05.863] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-06-12 14:49:03.377] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-06-12 14:49:03.378] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-12 14:49:03.401] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-06-12 14:49:03.422] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-06-12 14:49:03.434] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-06-12 14:49:03.461] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-06-12 14:49:03.462] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-06-12 14:49:03.465] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-06-13 20:11:22.862] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-06-13 20:11:22.902] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-06-13 20:11:22.931] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-13 20:11:22.949] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-06-13 20:11:22.959] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-06-13 20:11:22.983] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-06-13 20:11:23.009] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-06-13 20:11:23.009] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-06-14 12:24:12.478] [INFO] startUp - [worker:5] Listening on port 3222
+[2017-06-14 12:24:12.485] [INFO] startUp - [worker:4] Listening on port 3222
+[2017-06-14 12:24:12.492] [INFO] startUp - [worker:3] Listening on port 3222
+[2017-06-14 12:24:12.542] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 12:24:12.546] [INFO] startUp - [worker:2] Listening on port 3222
+[2017-06-14 12:24:12.574] [INFO] startUp - [worker:8] Listening on port 3222
+[2017-06-14 12:24:12.575] [INFO] startUp - [worker:6] Listening on port 3222
+[2017-06-14 12:24:12.596] [INFO] startUp - [worker:7] Listening on port 3222
+[2017-06-14 12:24:24.306] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 12:25:14.911] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 12:25:47.951] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 12:27:13.638] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 12:28:01.501] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 12:42:30.484] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 12:57:07.282] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:00:21.455] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:07:49.613] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:10:48.887] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:13:30.278] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:14:33.145] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:15:00.145] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:15:40.654] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:15:57.912] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:19:47.755] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:20:33.197] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:21:24.789] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-14 13:40:15.110] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-15 10:16:16.247] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-15 12:24:59.229] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-15 12:26:35.669] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-15 15:19:03.009] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 12:34:07.419] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 12:41:50.333] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 12:42:06.444] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 12:44:38.588] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 12:46:20.946] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 12:48:41.128] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:05:47.441] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:11:37.659] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:11:49.535] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:12:40.450] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:13:59.554] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:15:16.760] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:15:25.266] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:16:22.637] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:16:40.392] [INFO] startUp - [worker:1] Listening on port 3222
+[2017-06-29 13:21:32.653] [INFO] startUp - [worker:1] Listening on port 3222

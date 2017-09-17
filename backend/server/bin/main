@@ -1,0 +1,165 @@
+#!/usr/bin/env node
+
+//pm2 传参数的启动方式
+//BS_ENV=production pm2 restart main -- --max-old-space-size=200
+var cluster = require('cluster');
+var protocol = process.env.APP_PROTOCOL || 'http';
+var cpuCount = require('os').cpus().length;
+
+var logHelper = null;
+var startUpLogger = null;
+var exLogger = null;
+var cf = require('../src/core/common-func');
+
+function createServer(app) {
+    var protocol = process.env.APP_PROTOCOL || 'http';
+    console.log('the protocol for web server is:' + protocol);
+    var serverCreator = require('http');
+    var serverOptions = {};
+    if (protocol == 'https') { //启用https协议
+        serverCreator = require('https');
+        serverOptions = {
+            key: require('fs').readFileSync('./213720472350698.key'),
+            cert: require('fs').readFileSync('./213720472350698.pem')
+        };
+        return serverCreator.createServer(serverOptions, app);
+    } else {
+        return serverCreator.createServer(app);
+    }
+}
+
+
+if (cluster.isMaster) {
+    logHelper = require('../support/logger/helper');
+    startUpLogger = logHelper.getLogger('startUp');
+    exLogger = logHelper.getLogger('exception');
+    //master进程里执行的代码逻辑
+    startUpLogger.info("......start boldseas CIAM server with cluster mode.......");
+    startUpLogger.info('-----------------[APP_ENV]----------------------');
+    startUpLogger.info('the APP_ENV for project:' + cf.getAppEnv());
+    startUpLogger.info('-------------------------------------------------');
+    cpuCount = 1;
+    startUpLogger.info("%s cpu(s) found", cpuCount);
+
+    for (var i = 0; i < cpuCount; i += 1) {
+        cluster.fork();
+    }
+
+    var workerIds = Object.keys(cluster.workers);
+
+    //master进程监听来自各个worker进程的消息
+    workerIds.forEach(function(id) {
+        (function(workerId) {
+            cluster.workers[workerId].on('message', function(msg) {
+                if (msg.type != 'axm:monitor') { //这个是来自于pm2的信号,过滤掉他们,不打印
+                    startUpLogger.error("master process receive msg coming from worker process:" + workerId);
+                    sendToAllWorker(msg); //不排除发送的那个子进程，这里发现一个奇怪的bug，发送的那个子进程里的globalCache里的内容没变
+                }
+            });
+        })(id);
+    });
+
+    cluster.on('exit', function(worker, code, signal) {
+        exLogger.error('------------------------------[ FATAL ERROR ]------------------------------');
+        exLogger.error('worker:%s died with code:%s and signal:%s!', worker.process.pid, code, signal);
+        exLogger.error('---------------------------------------------------------------------------\n');
+    });
+
+    cluster.on('listening', function(worker, address) {
+        startUpLogger.log("worker:" + worker.id + " is now connected to " + address.port);
+    });
+
+    //master向各个worker发消息
+    function sendToAllWorker(toSend, excludeId) {
+        var workers = cluster.workers;
+        workerIds.forEach(function(workerId) {
+            var curWorker = workers[workerId];
+            if (excludeId) {
+                if (workerId != excludeId) {
+                    startUpLogger.log("master process send msg:" + JSON.stringify(toSend) + " to worker:" + workerId);
+                    curWorker.send(toSend);
+                }
+            } else {
+                startUpLogger.log("master process send msg:" + JSON.stringify(toSend) + " to worker:" + workerId);
+                curWorker.send(toSend);
+            }
+        });
+    }
+
+
+} else if (cluster.isWorker) {
+    var curWorker = cluster.worker;
+
+    //这里一定是在设置workerCache后才能require logHelper,因为helper内部依赖workerId是否设置来确定日志前缀是worker还是master
+    logHelper = require('../support/logger/helper');
+    logHelper.configure(curWorker, require('../config/log4js'));
+
+    startUpLogger = logHelper.getLogger('startUp');
+    exLogger = logHelper.getLogger('exception');
+    sqlLogger = logHelper.getLogger('sql');
+
+    var app = require('./framework-engin/express');
+    var debug = require('debug')('web_with_express4:server');
+
+
+    //工作进程监听来自主进程的各种消息通知
+    curWorker.on('message', function(msg) {
+        var cur_id = curWorker.id;
+        startUpLogger.info("worker:" + cur_id + " receive msg from master:" + JSON.stringify(msg) + "!");
+        //todo: handle msg from master process if we need
+    });
+
+
+    var server = createServer(app);
+    //在所有的网卡上监听指定的端口号
+    server.listen(app.get('port'));
+    server.on('error', onError);
+    server.on('listening', onListening);
+
+    process.on('uncaughtException', function(err) {
+        console.log('------------------uncaughtException------------------');
+        //打印出错误的调用栈方便调试
+        exLogger.info(err);
+    });
+
+
+    /**
+     * Event listener for HTTP server "error" event.
+     */
+    function onError(error) {
+        if (error.syscall !== 'listen') {
+            throw error;
+        }
+
+        var bind = typeof port === 'string' ?
+            'Pipe ' + port :
+            'Port ' + port;
+
+        // handle specific listen errors with friendly messages
+        switch (error.code) {
+            case 'EACCES':
+                console.error(bind + ' requires elevated privileges');
+                process.exit(1);
+                break;
+            case 'EADDRINUSE':
+                console.error(bind + ' is already in use');
+                process.exit(1);
+                break;
+            default:
+                throw error;
+        }
+    }
+
+    /**
+     * Event listener for HTTP server "listening" event.
+     */
+    function onListening() {
+        var addr = server.address();
+        var bind = typeof addr === 'string' ?
+            'pipe ' + addr :
+            'port ' + addr.port;
+        startUpLogger.info('Listening on ' + bind);
+        debug('Listening on ' + bind);
+    }
+
+}

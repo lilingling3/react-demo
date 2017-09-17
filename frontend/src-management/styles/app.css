@@ -1,0 +1,450 @@
+
+html {
+    font-family: MicrosoftYaHei;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    border: none;
+}
+
+.shadow {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    z-index: 1000;
+    opacity: 0.7
+}
+
+.context {
+    height: 100%;
+    width: 100%;
+    min-width: 1100px;
+}
+
+.menu {
+    float: left;
+    height: 100%;
+    width: 160px;
+    background: #062A44;
+    color: white;
+}
+
+.body {
+    float: left;
+    height: 100%;
+    width: calc(100% - 160px);
+}
+
+.menu .item {
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #062A44;
+    border: none;
+    text-align: left;
+    padding-left: 24px;
+    border-bottom: 1px solid #828282;
+}
+
+.menu .item:focus {
+    background-color: #0070BF;
+    transition: all 0.5s ease;
+}
+
+.menu .loginItem {
+    width: 100%;
+    color: white;
+    font-size: 13px;
+    background-color: #062A44;
+    text-align: left;
+    padding-left: 24px;
+    margin-top: 50px;
+}
+
+.menu .point {
+    color: white;
+}
+
+.menu .logout {
+    width: 100%;
+    padding-left: 24px;
+    color: white;
+    font-size: 13px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.titleBar {
+    height: 50px;
+    width: 100%;
+    background: #F3F3F5;
+    border-bottom: 1px solid #E8E9EB;
+}
+
+.titleBar .title {
+    height: 50px;
+    font-size: 20px;
+    color: #333333;
+    line-height: 50px;
+    margin-left: 15px;
+}
+
+.titleBar .right {
+    display: inline-block;
+    position: absolute;
+    top: 0px;;
+    right: 0px;
+    height: 50px;
+    line-height: 50px;
+    margin-right: 15px;
+}
+
+.titleBar .time {
+    font-size: 14px;
+    color: #999999;
+    margin-left: 25px;
+}
+
+.titleBar .help {
+    font-size: 14px;
+    color: #0070BF;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.popup {
+    position: absolute;
+    right: 105px;
+    top: 50px;
+    width: 250px;
+    height: 320px;
+    background: white;
+    padding: 10px;
+    z-index: 999;
+    border: 1px solid #E8E9EB;
+    border-radius: 3px;
+}
+
+.popup .bubble {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 165px;
+    right: 115px;
+}
+
+.popup .bubble * {
+    display: block;
+    border-width: 10px;
+    position: absolute;
+    border-style: dashed solid dashed dashed;
+    font-size: 0;
+    line-height: 0;
+}
+
+.popup .bubble em {
+    border-color: transparent transparent #E8E9EB transparent;
+    top: -185px
+}
+
+.popup .bubble span {
+    border-color: transparent transparent white transparent;
+    top: -184px;
+}
+
+.popup .text {
+    font-size: 12px;
+    color: #333333;
+}
+
+.popup .image {
+    width: 200px;
+    height: 200px;
+}
+
+.fontRegular {
+    font-family: AdobeHeitiStd-Regular;
+}
+
+.fontYahei {
+    font-family: Microsoft Yahei;
+}
+
+.star {
+    color: #ff0f0f;
+    font-style: normal;
+    font-size: 1.2rem;
+}
+
+/*设置图标字体start*/
+
+@font-face {
+    font-family: "iconfont";
+    src: url('assets/font/iconfont.eot?t=1494905839763'); /* IE9*/
+    src: url('assets/font/iconfont.eot?t=1494905839763#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('assets/font/iconfont.woff?t=1494905839763') format('woff'), /* chrome, firefox */ url('assets/font/iconfont.ttf?t=1494905839763') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/ url('assets/font/iconfont.svg?t=1494905839763#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-weixin:before {
+    content: "\e605";
+}
+
+.icon-tuichu:before {
+    content: "\e62f";
+}
+
+.icon-point:before {
+    content: "\e674";
+}
+
+.icon-renwu:before {
+    content: "\e63c";
+}
+
+.icon-koukoukongjian:before {
+    content: "\e8e8";
+}
+
+.icon-more:before {
+    content: "\e60f";
+}
+
+.icon-modify:before {
+    content: "\e634";
+}
+
+.icon-wode:before {
+    content: "\e618";
+}
+
+.icon-yuan:before {
+    content: "\e61a";
+}
+
+.icon-dianhua:before {
+    content: "\e627";
+}
+
+.icon-daijia:before {
+    content: "\e641";
+}
+
+.icon-107:before {
+    content: "\e62c";
+}
+
+.icon-demo03:before {
+    content: "\e603";
+}
+
+.icon-gengduo:before {
+    content: "\e667";
+}
+
+.icon-iconnicheng:before {
+    content: "\e615";
+}
+
+.icon-wode1:before {
+    content: "\e612";
+}
+
+.icon-elite:before {
+    content: "\e622";
+}
+
+.icon-shu:before {
+    content: "\e62b";
+}
+
+.icon-xiangshang:before {
+    content: "\e624";
+}
+
+.icon-zhuye:before {
+    content: "\e60e";
+}
+
+.icon-zan:before {
+    content: "\e60a";
+}
+
+.icon-xiangxia:before {
+    content: "\e64f";
+}
+
+.icon-kulou:before {
+    content: "\e638";
+}
+
+.icon-weixin2:before {
+    content: "\e613";
+}
+
+.icon-renwu1:before {
+    content: "\e654";
+}
+
+.icon-duanxin2:before {
+    content: "\e6e3";
+}
+
+.icon-phone-alt:before {
+    content: "\e616";
+}
+
+.icon-star:before {
+    content: "\e623";
+}
+
+.icon-duanxin1:before {
+    content: "\e610";
+}
+
+.icon-tongxunlu:before {
+    content: "\e6ef";
+}
+
+.icon-xiangzuo2:before {
+    content: "\e630";
+}
+
+.icon-tuichu1:before {
+    content: "\e61f";
+}
+
+.icon-che1-copy:before {
+    content: "\e608";
+}
+
+.icon-gou:before {
+    content: "\e611";
+}
+
+.icon-daijia1:before {
+    content: "\e600";
+}
+
+.icon-jsfw:before {
+    content: "\e606";
+}
+
+.icon-unselectduanxin:before {
+    content: "\e620";
+}
+
+.icon-paizhao:before {
+    content: "\e665";
+}
+
+.icon-chanpin:before {
+    content: "\e604";
+}
+
+.icon-jiedai1:before {
+    content: "\e621";
+}
+
+.icon-shenglvehao:before {
+    content: "\e72e";
+}
+
+.icon-wujiaoxing:before {
+    content: "\e63b";
+}
+
+.icon-koukou:before {
+    content: "\e633";
+}
+
+.icon-xiangyou:before {
+    content: "\e6af";
+}
+
+.icon-iconfontzhizuobiaozhunBduan-:before {
+    content: "\e703";
+}
+
+.icon-sousuo-sousuo:before {
+    content: "\e602";
+}
+
+.icon-duanxin:before {
+    content: "\e619";
+}
+
+.icon-bi-copy:before {
+    content: "\e607";
+}
+
+.icon-neirong:before {
+    content: "\e637";
+}
+
+.icon-yuan1:before {
+    content: "\e642";
+}
+
+.icon-triangle-up:before {
+    content: "\e601";
+}
+
+.icon-xinzengyonghu:before {
+    content: "\e626";
+}
+
+/*设置图标字体end*/
+
+/*设置保时捷字体*/
+@font-face {
+    font-family: 'porsche-font';
+    src: url('assets/porsche-font/TrueType/LT_21019.ttf');
+}
+
+@font-face {
+    font-family: 'thin-porsche-font';
+    src: url('assets/porsche-font/TrueType/LT_21021.ttf');
+}
+
+/**其他字体*/
+@font-face {
+    font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+/**after*/
+.aicon-xiangyou:after {
+    content: "\e6af";
+}
+
+.thin-font {
+    font-family: thin-porsche-font;
+}
+
+.bold-font {
+    font-family: porsche-font;
+}
+
+* {
+    font-family: thin-porsche-font;
+}

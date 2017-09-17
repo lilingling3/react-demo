@@ -1,0 +1,40 @@
+
+.digital-card {
+    background-color: #e9e8e8;
+    height: 100%;
+    overflow: scroll;
+}
+
+.digital-card .sliderItem {
+    background-color: #e9e8e8;
+    /*margin-left:2px;*/
+    text-align: center;
+}
+
+.digital-card .sliderItem .sliderSubItem .default {
+    position: absolute;
+    z-index: 100;
+    width: 40%;
+    right: 0px;
+}
+
+.digital-card .sliderItem .sliderSubItem .notdefault {
+    display: none;
+}
+
+.digital-card .sliderItem .sliderSubItem {
+    position: relative;
+    overflow: inherit;
+    margin: 5%;
+    height: auto;
+    height: 100%;
+    width: auto;
+    width: 90%;
+}
+
+.digital-card .sliderItem .sliderSubItem .vCardImg {
+    width: 100%;
+    left: 0px;
+    left: 0px;
+    height: 100%;
+}

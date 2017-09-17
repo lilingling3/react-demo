@@ -1,0 +1,4 @@
+[2017-06-13 20:11:34.196] [INFO] httpAccess - [worker:2] method:GET,elapsedTime:63ms,url:/test/page1,responseData:{"name":"zzk","age":22,"list":[{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"},{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"},{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]}
+
+[2017-06-13 20:11:55.187] [INFO] httpAccess - [worker:2] method:POST,elapsedTime:1ms,url:/test/commit-cmd,requestData:{"cmd":"2"},responseData:{"data":{"name":"your cmd is:2","age":22}}
+

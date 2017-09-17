@@ -1,0 +1,42 @@
+.test-drive-hp{
+    width: 100%;
+    height:100%;
+    background: #ECEBEB;
+    text-align: center;
+    font-size: .35rem;
+}
+
+.test-drive-hp .telephone{
+    border: 1px solid #999999;
+    border-radius: 2px;
+    height: 2.5%;
+    width: 80%;
+    text-align: center;
+    font-size: .3rem;
+    padding: 10px;
+    background: white;
+}
+
+.test-drive-hp .describe{
+    text-align: center;
+    font-size: .25rem;
+    margin-top: 20px;
+    width: 100%;
+    height: 10px;
+    color: #999999;
+    font-family: "Microsoft Yahei";
+    letter-spacing: 0px;
+}
+
+.test-drive-hp .button{
+    height: 1.0rem;
+    width: 50%;
+    line-height: 1.0rem;
+    background-image: linear-gradient(-180deg, #ECEBEB 0%, #CFCFCF 97%);
+    border: 1px solid #999999;
+    box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.20);
+    border-radius: 0.15rem;
+    text-align: center;
+    font-size: .3rem;
+    margin-top: 400px;
+}

@@ -1,0 +1,10 @@
+[2017-06-16 14:40:13.495] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:47ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-16 14:41:03.982] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-16 14:59:00.929] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-16 14:59:01.865] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-16 14:59:02.646] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+

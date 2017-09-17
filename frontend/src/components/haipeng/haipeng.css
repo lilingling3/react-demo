@@ -1,0 +1,77 @@
+
+.haipeng {
+    border: 1px solid red;
+    font-size: .35rem;
+    background: gainsboro;
+}
+
+.haipeng .kulou {
+    font-size: .8rem;
+    color: green;
+}
+
+.haipeng .appleList {
+    padding: 10px 0px;
+}
+
+.haipeng .appleList .empty-tip {
+    text-align: center;
+    font-size: 16px;
+    color: #3BACE3;
+    padding: 20px 0px;
+}
+
+.addBookBtn {
+    text-align: center;
+}
+
+.addBookBtn button {
+    color: #ffffff;
+    background-color: #096;
+    border: none;
+    font-size: 15px;
+    border-radius: 6px;
+    margin: 20px auto;
+    padding: 6px 40px;
+}
+
+.dialog {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.dialog .dialogWin {
+    width: 50%;
+    height: 40%;
+    background: white;
+    border-radius: 3px;
+    border: 1px solid #3BACE3;
+}
+
+.haipeng .bookBox {
+    width:100%;
+    heigth:50px;
+}
+
+.haipeng .bookBox .bookName{
+    display:  inline-block;
+    width:100px;
+    heigth:50px;
+    text-align: center;
+}
+
+.haipeng .bookBox .author{
+    display:  inline-block;
+    box-sizing: border-box;
+    width:calc(100% - 100px);
+    heigth:50px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.haipeng .bookBox .btn{
+    width:100%;
+    heigth:50px;
+}

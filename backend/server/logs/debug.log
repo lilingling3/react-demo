@@ -1,0 +1,2217 @@
+[2017-05-05 14:20:43.806] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 14:20:56.096] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 14:21:00.936] [INFO] debug - [worker:1] GET: /
+[2017-05-05 14:21:01.139] [INFO] debug - [worker:1] GET: /
+[2017-05-05 14:21:05.499] [INFO] debug - [worker:1] GET: /page1
+[2017-05-05 14:21:11.818] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:21:11.819] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:21:11.821] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:21:11.826] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:21:11.827] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:21:11.845] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:21:11.846] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:21:11.847] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:21:25.880] [INFO] debug - [worker:1] POST: /test/commit-cmd
+[2017-05-05 14:21:25.881] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:21:31.589] [INFO] debug - [worker:1] POST: /test/commit-cmd
+[2017-05-05 14:21:31.589] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:21:31.599] [INFO] debug - [worker:1] GET: /test/page2
+[2017-05-05 14:21:31.599] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:21:46.219] [INFO] debug - [worker:1] POST: /test/commit-cmd
+[2017-05-05 14:21:46.219] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:21:46.227] [INFO] debug - [worker:1] GET: /test/page2
+[2017-05-05 14:21:46.227] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:22:11.258] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 14:22:12.305] [INFO] debug - [worker:1] GET: /test/page2
+[2017-05-05 14:22:12.306] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:22:15.129] [INFO] debug - [worker:1] POST: /test/commit-cmd
+[2017-05-05 14:22:15.130] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:22:15.141] [INFO] debug - [worker:1] GET: /test/page2
+[2017-05-05 14:22:15.141] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:22:21.231] [INFO] debug - [worker:1] POST: /test/commit-cmd
+[2017-05-05 14:22:21.231] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:22:25.498] [INFO] debug - [worker:1] POST: /test/commit-cmd
+[2017-05-05 14:22:25.498] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:26:41.439] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 14:26:46.097] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:26:46.098] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:26:46.100] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:26:46.107] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:26:46.109] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:26:55.257] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:26:55.257] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:26:55.258] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:26:55.258] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:26:55.258] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:10.602] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 14:27:12.186] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:27:12.187] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:27:12.189] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:12.199] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:12.201] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:12.222] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:12.224] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:12.224] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:46.495] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 14:27:48.088] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:27:48.090] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:27:48.092] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:48.099] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:48.101] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:48.120] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:48.122] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:48.123] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:52.772] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:27:52.773] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:27:52.773] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:52.773] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:52.774] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:52.787] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:52.788] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:52.789] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:58.703] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:27:58.703] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:27:58.704] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:58.704] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:58.704] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:27:58.717] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:58.719] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:27:58.722] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:00.817] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:28:00.818] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:28:00.818] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:00.818] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:00.819] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:00.834] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:00.839] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:00.842] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:03.396] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:28:03.396] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:28:03.397] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:03.397] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:03.397] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:03.411] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:03.413] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:03.414] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:32.471] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 14:28:32.471] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 14:28:32.472] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 14:28:32.478] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 14:28:32.494] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 14:28:32.497] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 14:28:32.497] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 14:28:32.507] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 14:28:39.136] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:28:39.137] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:28:39.139] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:39.149] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:39.151] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:39.173] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:39.176] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:39.176] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:42.689] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:28:42.689] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:28:42.689] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:42.690] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:42.690] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:42.704] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:42.705] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:42.707] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:44.563] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:28:44.563] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:28:44.563] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:44.564] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:44.564] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:44.578] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:44.579] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:44.579] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:46.263] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:28:46.263] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:28:46.263] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:46.264] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:46.264] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:46.279] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:46.281] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:46.282] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:49.587] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:28:49.588] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:28:49.588] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:49.588] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:49.588] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:49.606] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:49.606] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:49.607] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:54.463] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:28:54.463] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:28:54.463] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:54.463] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:54.463] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:54.481] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:54.481] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:54.483] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:58.045] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:28:58.045] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:28:58.045] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:58.045] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:58.045] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:28:58.059] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:58.060] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:28:58.062] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:04.635] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:29:04.636] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:29:04.637] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:04.645] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:04.646] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:04.668] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:04.670] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:04.670] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:04.826] [INFO] debug - [worker:2] GET: /apple-touch-icon-precomposed.png
+[2017-05-05 14:29:04.887] [INFO] debug - [worker:2] GET: /apple-touch-icon.png
+[2017-05-05 14:29:09.256] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 14:29:09.257] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 14:29:09.258] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:09.265] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:09.266] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:09.291] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:09.294] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:09.294] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:10.616] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:29:10.617] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:29:10.617] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:10.617] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:10.617] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:10.631] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:10.632] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:10.634] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:23.453] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:29:23.453] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:29:23.453] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:23.453] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:23.453] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:23.473] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:23.481] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:23.484] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:28.099] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 14:29:28.099] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 14:29:28.099] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:28.100] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:28.100] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:28.117] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:28.120] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:28.124] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:31.943] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 14:29:31.943] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 14:29:31.944] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:31.944] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:31.944] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:31.959] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:31.962] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:31.964] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:32.940] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:29:32.940] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:29:32.940] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:32.940] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:32.941] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:32.962] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:32.965] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:32.969] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:37.890] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:29:37.890] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:29:37.890] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:37.891] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:37.891] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:37.904] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:37.905] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:37.906] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:38.796] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:29:38.797] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:29:38.797] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:38.797] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:38.798] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:38.810] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:38.811] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:38.812] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:40.660] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-05 14:29:40.660] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-05 14:29:40.660] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:40.661] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:40.661] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:40.675] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:40.676] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:40.677] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:44.451] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 14:29:44.451] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 14:29:44.451] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:44.451] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:44.452] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:44.463] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:44.464] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:44.465] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:48.693] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 14:29:48.693] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 14:29:48.693] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:48.694] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:48.694] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:48.709] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:48.712] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:48.712] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:52.653] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 14:29:52.653] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 14:29:52.653] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:52.653] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:52.653] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:52.669] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:52.670] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:52.671] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:56.290] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:29:56.290] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:29:56.291] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:56.292] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:56.292] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:56.306] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:56.306] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:56.306] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:58.222] [INFO] debug - [worker:6] GET: /test/page1
+[2017-05-05 14:29:58.222] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-05 14:29:58.222] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:58.223] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:58.223] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-05 14:29:58.237] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:58.238] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 14:29:58.239] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:05:32.233] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 15:05:32.240] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 15:05:32.248] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 15:05:32.250] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 15:05:32.260] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 15:05:32.262] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 15:05:32.263] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 15:05:32.266] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 15:05:39.029] [INFO] debug - [worker:2] GET: /test/page1
+[2017-05-05 15:05:39.030] [INFO] debug - [worker:2] ************   co controller   ************
+[2017-05-05 15:05:39.031] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:05:39.039] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:05:39.041] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:05:39.068] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:05:39.071] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:05:39.091] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:05:43.536] [INFO] debug - [worker:2] GET: /test/page1
+[2017-05-05 15:05:43.537] [INFO] debug - [worker:2] ************   co controller   ************
+[2017-05-05 15:05:43.537] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:05:43.537] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:05:43.538] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:05:43.562] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:05:43.565] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:05:43.569] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:06:35.762] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 15:06:35.768] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 15:06:35.772] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 15:06:35.790] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 15:06:35.800] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 15:06:35.809] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 15:06:35.811] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 15:06:35.812] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 15:06:40.032] [INFO] debug - [worker:5] GET: /test/page1
+[2017-05-05 15:06:40.032] [INFO] debug - [worker:5] ************   co controller   ************
+[2017-05-05 15:06:40.034] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:06:40.042] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:06:40.044] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:06:40.072] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:06:40.076] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:06:40.081] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:06:43.727] [INFO] debug - [worker:5] GET: /test/page1
+[2017-05-05 15:06:43.727] [INFO] debug - [worker:5] ************   co controller   ************
+[2017-05-05 15:06:43.728] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:06:43.728] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:06:43.728] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:06:43.753] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:06:43.757] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:06:43.762] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:08:42.886] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 15:08:42.894] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 15:08:42.897] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 15:08:42.897] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 15:08:42.901] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 15:08:42.913] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 15:08:42.916] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 15:08:42.919] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 15:08:46.119] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 15:08:46.121] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 15:08:46.123] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:08:46.130] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:08:46.132] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:08:46.154] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:08:46.156] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:08:46.156] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:07.544] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 15:09:07.574] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 15:09:07.604] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 15:09:07.609] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 15:09:07.616] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 15:09:07.619] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 15:09:07.628] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 15:09:07.639] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 15:09:10.268] [INFO] debug - [worker:2] GET: /test/page1
+[2017-05-05 15:09:10.269] [INFO] debug - [worker:2] ************   co controller   ************
+[2017-05-05 15:09:10.271] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:10.280] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:10.283] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:10.302] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:10.304] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:10.305] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:15.880] [INFO] debug - [worker:3] GET: /test/page1
+[2017-05-05 15:09:15.881] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-05 15:09:15.882] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:15.889] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:15.891] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:15.919] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:15.923] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:15.927] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:43.296] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 15:09:43.303] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 15:09:43.305] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 15:09:43.309] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 15:09:43.308] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 15:09:43.315] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 15:09:43.320] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 15:09:43.320] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 15:09:45.339] [INFO] debug - [worker:3] GET: /test/page1
+[2017-05-05 15:09:45.340] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-05 15:09:45.342] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:45.351] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:45.353] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:09:45.371] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:45.374] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:09:45.374] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:11:58.877] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 15:11:58.893] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 15:11:58.895] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 15:11:58.897] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 15:11:58.896] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 15:11:58.900] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 15:11:58.902] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 15:11:58.904] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 15:12:00.955] [INFO] debug - [worker:2] GET: /test/page1
+[2017-05-05 15:12:00.956] [INFO] debug - [worker:2] ************   co controller   ************
+[2017-05-05 15:12:00.957] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:12:00.964] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:12:00.966] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:12:00.986] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:12:00.988] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:12:00.988] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:12:51.142] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-05 15:12:51.150] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-05 15:12:51.142] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-05 15:12:51.155] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-05 15:12:51.168] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-05 15:12:51.185] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-05 15:12:51.191] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-05 15:12:51.204] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-05 15:13:15.422] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 15:13:15.423] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 15:13:15.425] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:15.431] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:15.433] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:15.452] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:15.454] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:15.454] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:18.319] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 15:13:18.319] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 15:13:18.319] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:18.319] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:18.320] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:18.335] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:18.337] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:18.337] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:45.980] [INFO] debug - [worker:8] GET: /test/page1
+[2017-05-05 15:13:45.980] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-05 15:13:45.980] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:45.980] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:45.981] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:13:45.995] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:45.997] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:13:45.998] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:22:21.555] [INFO] debug - [worker:5] GET: /test/page1
+[2017-05-05 15:22:21.557] [INFO] debug - [worker:5] ************   co controller   ************
+[2017-05-05 15:22:21.559] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:22:21.568] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:22:21.570] [INFO] debug - [worker:5] http://www.zzkai.com:8888/getbooks
+[2017-05-05 15:22:21.626] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:22:21.629] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-05 15:22:21.629] [INFO] debug - [worker:5] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:36:13.723] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:36:13.722] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:36:13.724] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:36:13.726] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:36:13.731] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:36:13.732] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:36:13.735] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:36:13.740] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:36:41.856] [INFO] debug - [worker:4] GET: /test/page1
+[2017-05-23 13:36:41.857] [INFO] debug - [worker:4] ************   co controller   ************
+[2017-05-23 13:36:41.860] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:36:41.873] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:36:41.875] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:36:41.915] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:36:41.918] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:36:41.926] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:37:11.756] [INFO] debug - [worker:4] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:37:11.756] [INFO] debug - [worker:4] ************   co controller   ************
+[2017-05-23 13:37:11.757] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:37:11.757] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:37:11.757] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:37:11.806] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:37:11.808] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:37:11.809] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:38:19.623] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:38:19.627] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:38:19.634] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:38:19.638] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:38:19.645] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:38:19.654] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:38:19.659] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:38:19.661] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:38:22.105] [INFO] debug - [worker:3] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:38:22.106] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:38:22.108] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:38:22.114] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:38:22.116] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:38:22.169] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:38:22.176] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:38:22.180] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:38:38.007] [INFO] debug - [worker:3] POST: /test/save-vin-pic
+[2017-05-23 13:38:38.007] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:38:38.039] [INFO] debug - [worker:6] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:38:38.040] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-23 13:38:38.042] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:38:38.048] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:38:38.050] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:38:38.075] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:38:38.093] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:38:38.110] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:39:55.071] [INFO] debug - [worker:6] POST: /test/save-vin-pic
+[2017-05-23 13:39:55.071] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-23 13:39:55.090] [INFO] debug - [worker:3] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:39:55.091] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:39:55.091] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:39:55.092] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:39:55.093] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:39:55.107] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:39:55.108] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:39:55.108] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:41:33.200] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:41:33.212] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:41:33.218] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:41:33.228] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:41:33.246] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:41:33.254] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:41:33.272] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:41:33.280] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:41:55.119] [INFO] debug - [worker:1] POST: /test/save-vin-pic
+[2017-05-23 13:41:55.127] [INFO] debug - [worker:8] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:41:55.120] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:41:55.127] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-23 13:41:55.129] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:41:55.136] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:41:55.137] [INFO] debug - [worker:8] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:41:55.148] [INFO] debug - [worker:1] SyntaxError: Unexpected token o in JSON at position 1
+    at Object.parse (native)
+    at exports.saveVinPic (/opt/develop/project/node/express-guide/server/src/controller/test/ctrl.js:55:20)
+    at next (native)
+    at onFulfilled (/opt/develop/project/node/express-guide/node_modules/co/index.js:65:19)
+[2017-05-23 13:41:55.156] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:41:55.159] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:41:55.163] [INFO] debug - [worker:8] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:42:13.537] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:42:13.543] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:42:13.551] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:42:13.557] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:42:13.564] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:42:13.567] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:42:13.570] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:42:13.572] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:42:48.535] [INFO] debug - [worker:1] GET: /test/page1?vin_pic=
+[2017-05-23 13:42:48.536] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:42:48.538] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:42:48.544] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:42:48.545] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:42:48.568] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:42:48.570] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:42:48.570] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:42:58.551] [INFO] debug - [worker:1] GET: /test/page1?vin_pic=
+[2017-05-23 13:42:58.552] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:42:58.552] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:42:58.552] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:42:58.552] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:42:58.571] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:42:58.572] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:42:58.577] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:09.138] [INFO] debug - [worker:1] GET: /test/page1?vin_pic=
+[2017-05-23 13:43:09.149] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:43:09.149] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:09.149] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:09.150] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:09.192] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:09.196] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:09.201] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:12.392] [INFO] debug - [worker:1] GET: /test/page1
+[2017-05-23 13:43:12.393] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:43:12.393] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:12.394] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:12.394] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:12.423] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:12.426] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:12.428] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:34.805] [INFO] debug - [worker:1] POST: /test/save-vin-pic
+[2017-05-23 13:43:34.844] [INFO] debug - [worker:6] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:43:34.806] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:43:34.852] [INFO] debug - [worker:1] [object Object]
+[2017-05-23 13:43:34.845] [INFO] debug - [worker:6] ************   co controller   ************
+[2017-05-23 13:43:34.847] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:34.853] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:34.855] [INFO] debug - [worker:6] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:43:34.876] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:34.878] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:43:34.878] [INFO] debug - [worker:6] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:44:40.731] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:44:40.737] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:44:40.745] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:44:40.752] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:44:40.757] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:44:40.767] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:44:40.767] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:44:40.770] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:44:41.841] [INFO] debug - [worker:3] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:44:41.842] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:44:41.844] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:44:41.851] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:44:41.853] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:44:41.875] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:44:41.877] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:44:41.877] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:01.533] [INFO] debug - [worker:3] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:45:01.544] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:45:01.544] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:01.544] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:01.545] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:01.562] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:01.564] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:01.564] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:11.872] [INFO] debug - [worker:3] GET: /test/page1?vin_pic=
+[2017-05-23 13:45:11.872] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:45:11.872] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:11.872] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:11.873] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:11.892] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:11.892] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:11.895] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:27.502] [INFO] debug - [worker:3] GET: /test/page1
+[2017-05-23 13:45:27.503] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:45:27.503] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:27.514] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:27.515] [INFO] debug - [worker:3] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:27.532] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:27.535] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:27.539] [INFO] debug - [worker:3] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:43.889] [INFO] debug - [worker:3] POST: /test/save-vin-pic
+[2017-05-23 13:45:43.890] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:45:43.925] [INFO] debug - [worker:4] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:45:43.939] [INFO] debug - [worker:3] --------> {"a":1,"b":2,"c":[1,2,4],"d":{"a":1,"b":2}}
+[2017-05-23 13:45:43.926] [INFO] debug - [worker:4] ************   co controller   ************
+[2017-05-23 13:45:43.928] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:43.936] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:43.938] [INFO] debug - [worker:4] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:45:43.959] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:43.961] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:45:43.962] [INFO] debug - [worker:4] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:46:42.593] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:46:42.597] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:46:42.627] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:46:42.633] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:46:42.633] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:46:42.654] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:46:42.655] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:46:42.655] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:46:58.845] [INFO] debug - [worker:8] POST: /test/save-vin-pic
+[2017-05-23 13:46:58.853] [INFO] debug - [worker:1] GET: /test/page1?vin_pic=1024icon.png
+[2017-05-23 13:46:58.847] [INFO] debug - [worker:8] ************   co controller   ************
+[2017-05-23 13:46:58.854] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:46:58.856] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:46:58.864] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:46:58.866] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:46:58.866] [INFO] debug - [worker:8] --------> { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-05-23 13:46:58.882] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:46:58.884] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:46:58.884] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:48:37.987] [INFO] debug - [worker:1] GET: /test/page1?excel_file=op-template-file.xlsx
+[2017-05-23 13:48:37.988] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:48:37.988] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:48:37.988] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:48:37.989] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:48:38.006] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:48:38.008] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:48:38.008] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:49:19.659] [INFO] debug - [worker:1] GET: /test/page1?excel_file=My+Budget%E6%A8%A1%E6%9D%BF.xlsx
+[2017-05-23 13:49:19.660] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:49:19.660] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:49:19.660] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:49:19.661] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:49:19.694] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:49:19.697] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:49:19.703] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:50:12.445] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:50:12.449] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:50:12.461] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:50:12.461] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:50:12.461] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:50:12.460] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:50:12.461] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:50:12.473] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:50:32.056] [INFO] debug - [worker:1] GET: /test/page1?excel_file=OPTemplateV2%281%29.xlsx
+[2017-05-23 13:50:32.056] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:50:32.058] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:50:32.065] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:50:32.067] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:50:32.088] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:50:32.090] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:50:32.090] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:51:14.491] [INFO] debug - [worker:1] GET: /test/page1?excel_file=OPTemplateV2%281%29.xlsx
+[2017-05-23 13:51:14.492] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:51:14.493] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:51:14.493] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:51:14.494] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-05-23 13:51:14.514] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:51:14.515] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:51:14.517] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-05-23 13:51:31.751] [INFO] debug - [worker:1] POST: /test/parse-excel
+[2017-05-23 13:51:31.751] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:51:31.816] [INFO] debug - [worker:1] Error: Unexpected field
+    at makeError (/opt/develop/project/node/express-guide/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/opt/develop/project/node/express-guide/node_modules/multer/index.js:40:19)
+    at Busboy.<anonymous> (/opt/develop/project/node/express-guide/node_modules/multer/lib/make-middleware.js:114:7)
+    at emitMany (events.js:127:13)
+    at Busboy.emit (events.js:201:7)
+    at Busboy.emit (/opt/develop/project/node/express-guide/node_modules/busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/opt/develop/project/node/express-guide/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:96:13)
+    at PartStream.emit (events.js:188:7)
+    at HeaderParser.<anonymous> (/opt/develop/project/node/express-guide/node_modules/dicer/lib/Dicer.js:51:16)
+[2017-05-23 13:51:58.564] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:51:58.565] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:51:58.568] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:51:58.571] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:51:58.580] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:51:58.583] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:51:58.586] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:51:58.585] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:52:30.001] [INFO] debug - [worker:3] POST: /test/parse-excel
+[2017-05-23 13:52:30.002] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:52:30.019] [INFO] debug - [worker:3]  { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-05-23 13:52:30.039] [INFO] debug - [worker:3] Error: ENOENT: no such file or directory, open '/opt/develop/project/node/express-guide/www/public/excel/vin-excel-1495518750003.xlsx'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.fs.readFileSync (fs.js:508:33)
+    at readSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17230:52)
+    at Object.readFileSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17250:9)
+    at exports.parseExcelFile (/opt/develop/project/node/express-guide/server/src/controller/test/ctrl.js:65:23)
+    at next (native)
+    at onFulfilled (/opt/develop/project/node/express-guide/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[2017-05-23 13:53:31.852] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:53:31.853] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:53:31.854] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:53:31.860] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:53:31.859] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:53:31.865] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:53:31.869] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:53:31.870] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:53:53.270] [INFO] debug - [worker:3] POST: /test/parse-excel
+[2017-05-23 13:53:53.271] [INFO] debug - [worker:3] ************   co controller   ************
+[2017-05-23 13:53:53.289] [INFO] debug - [worker:3]  { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-05-23 13:53:53.308] [INFO] debug - [worker:3] Error: ENOENT: no such file or directory, open '/opt/develop/project/node/express-guide/www/public/excel/vin-excel-1495518833273.xlsx.xlsx'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.fs.readFileSync (fs.js:508:33)
+    at readSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17230:52)
+    at Object.readFileSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17250:9)
+    at exports.parseExcelFile (/opt/develop/project/node/express-guide/server/src/controller/test/ctrl.js:65:23)
+    at next (native)
+    at onFulfilled (/opt/develop/project/node/express-guide/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+[2017-05-23 13:54:33.690] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:54:33.708] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:54:33.709] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:54:33.709] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:54:33.712] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:54:33.711] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:54:33.719] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:54:33.719] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:54:36.133] [INFO] debug - [worker:1] POST: /test/parse-excel
+[2017-05-23 13:54:36.135] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:54:36.153] [INFO] debug - [worker:1]  { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-05-23 13:55:05.813] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-05-23 13:55:05.816] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-05-23 13:55:05.831] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-05-23 13:55:05.835] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-05-23 13:55:05.848] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-05-23 13:55:05.850] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-05-23 13:55:05.852] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-05-23 13:55:05.854] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-05-23 13:55:16.541] [INFO] debug - [worker:1] POST: /test/parse-excel
+[2017-05-23 13:55:16.543] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-05-23 13:55:16.561] [INFO] debug - [worker:1]  { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-05-23 13:55:16.666] [INFO] debug - [worker:1]  1 A 国产/进口
+[2017-05-23 13:55:16.666] [INFO] debug - [worker:1]  1 B 品牌
+[2017-05-23 13:55:16.666] [INFO] debug - [worker:1]  1 C 车型
+[2017-05-23 13:55:16.666] [INFO] debug - [worker:1]  1 D 类别
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 E Cost per car
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 F 车型预算占比
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 G Total
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 H 1月
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 I 2月
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 J 3月
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 K 4月
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 L 5月
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 M 6月
+[2017-05-23 13:55:16.667] [INFO] debug - [worker:1]  1 N 7月
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  1 O 8月
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  1 P 9月
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  1 Q 10月
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  1 R 11月
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  1 S 12月
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  2 A 进口
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  2 B JEEP
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  2 C WK
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  2 D Fix
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  2 E 5
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  2 F 0.125
+[2017-05-23 13:55:16.668] [INFO] debug - [worker:1]  2 G 3600
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 H 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 I 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 J 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 K 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 L 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 M 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 N 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 O 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 P 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 Q 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 R 300
+[2017-05-23 13:55:16.669] [INFO] debug - [worker:1]  2 S 300
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 A 进口
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 B JEEP
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 C WK
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 D DAA
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 E 5
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 F 0.125
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 G 360
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 H 30
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 I 30
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 J 30
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 K 30
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 L 30
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 M 30
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 N 30
+[2017-05-23 13:55:16.670] [INFO] debug - [worker:1]  3 O 30
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  3 P 30
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  3 Q 30
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  3 R 30
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  3 S 30
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  4 A 进口
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  4 B JEEP
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  4 C WK
+[2017-05-23 13:55:16.671] [INFO] debug - [worker:1]  4 D 预算总额
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 E 5
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 F 0.125
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 G 3960
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 H 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 I 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 J 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 K 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 L 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 M 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 N 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 O 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 P 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 Q 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 R 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  4 S 330
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  5 A 进口
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  5 B JEEP
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  5 C JK
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  5 D Fix
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  5 E 6
+[2017-05-23 13:55:16.673] [INFO] debug - [worker:1]  5 F 0.125
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 G 3600
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 H 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 I 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 J 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 K 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 L 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 M 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 N 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 O 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 P 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 Q 300
+[2017-05-23 13:55:16.674] [INFO] debug - [worker:1]  5 R 300
+[2017-05-23 13:55:16.675] [INFO] debug - [worker:1]  5 S 300
+[2017-05-23 13:55:16.675] [INFO] debug - [worker:1]  6 A 进口
+[2017-05-23 13:55:16.675] [INFO] debug - [worker:1]  6 B JEEP
+[2017-05-23 13:55:16.675] [INFO] debug - [worker:1]  6 C JK
+[2017-05-23 13:55:16.675] [INFO] debug - [worker:1]  6 D DAA
+[2017-05-23 13:55:16.675] [INFO] debug - [worker:1]  6 E 6
+[2017-05-23 13:55:16.675] [INFO] debug - [worker:1]  6 F 0.125
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 G 360
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 H 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 I 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 J 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 K 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 L 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 M 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 N 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 O 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 P 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 Q 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 R 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  6 S 30
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  7 A 进口
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  7 B JEEP
+[2017-05-23 13:55:16.676] [INFO] debug - [worker:1]  7 C JK
+[2017-05-23 13:55:16.677] [INFO] debug - [worker:1]  7 D 预算总额
+[2017-05-23 13:55:16.677] [INFO] debug - [worker:1]  7 E 6
+[2017-05-23 13:55:16.677] [INFO] debug - [worker:1]  7 F 0.125
+[2017-05-23 13:55:16.678] [INFO] debug - [worker:1]  7 G 3960
+[2017-05-23 13:55:16.678] [INFO] debug - [worker:1]  7 H 330
+[2017-05-23 13:55:16.678] [INFO] debug - [worker:1]  7 I 330
+[2017-05-23 13:55:16.678] [INFO] debug - [worker:1]  7 J 330
+[2017-05-23 13:55:16.678] [INFO] debug - [worker:1]  7 K 330
+[2017-05-23 13:55:16.678] [INFO] debug - [worker:1]  7 L 330
+[2017-05-23 13:55:16.679] [INFO] debug - [worker:1]  7 M 330
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  7 N 330
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  7 O 330
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  7 P 330
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  7 Q 330
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  7 R 330
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  7 S 330
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  8 A 进口
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  8 B JEEP
+[2017-05-23 13:55:16.685] [INFO] debug - [worker:1]  8 C KL
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 D Fix
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 E 7
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 F 0.125
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 G 3600
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 H 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 I 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 J 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 K 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 L 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 M 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 N 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 O 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 P 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 Q 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 R 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  8 S 300
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 A 进口
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 B JEEP
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 C KL
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 D DAA
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 E 7
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 F 0.125
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 G 360
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 H 30
+[2017-05-23 13:55:16.686] [INFO] debug - [worker:1]  9 I 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 J 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 K 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 L 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 M 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 N 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 O 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 P 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 Q 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 R 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  9 S 30
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 A 进口
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 B JEEP
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 C KL
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 D 预算总额
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 E 7
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 F 0.125
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 G 3960
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 H 330
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 I 330
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 J 330
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 K 330
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 L 330
+[2017-05-23 13:55:16.687] [INFO] debug - [worker:1]  10 M 330
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  10 N 330
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  10 O 330
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  10 P 330
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  10 Q 330
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  10 R 330
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  10 S 330
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  11 A 进口Total
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  11 B 进口Total
+[2017-05-23 13:55:16.688] [INFO] debug - [worker:1]  11 C 进口Total
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 D Fix
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 F 0.375
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 G 10800
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 H 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 I 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 J 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 K 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 L 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 M 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 N 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 O 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 P 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 Q 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 R 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  11 S 900
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 A 进口Total
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 B 进口Total
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 C 进口Total
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 D DAA
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 E 0
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 F 0.375
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 G 1080
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 H 90
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 I 90
+[2017-05-23 13:55:16.689] [INFO] debug - [worker:1]  12 J 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 K 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 L 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 M 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 N 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 O 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 P 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 Q 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 R 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  12 S 90
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 A 进口Total
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 B 进口Total
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 C 进口Total
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 D 预算总额
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 E 0
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 F 0.375
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 G 11880
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 H 990
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 I 990
+[2017-05-23 13:55:16.690] [INFO] debug - [worker:1]  13 J 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 K 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 L 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 M 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 N 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 O 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 P 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 Q 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 R 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  13 S 990
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 A 国产
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 B JEEP
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 C K4
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 D Fix
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 E 8
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 F 0.125
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 G 3600
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 H 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 I 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 J 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 K 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 L 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 M 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 N 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 O 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 P 300
+[2017-05-23 13:55:16.691] [INFO] debug - [worker:1]  14 Q 300
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  14 R 300
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  14 S 300
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 A 国产
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 B JEEP
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 C K4
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 D DAA
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 E 8
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 F 0.125
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 G 360
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 H 30
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 I 30
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 J 30
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 K 30
+[2017-05-23 13:55:16.692] [INFO] debug - [worker:1]  15 L 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  15 M 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  15 N 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  15 O 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  15 P 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  15 Q 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  15 R 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  15 S 30
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 A 国产
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 B JEEP
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 C K4
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 D 预算总额
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 E 8
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 F 0.125
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 G 3960
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 H 330
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 I 330
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 J 330
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 K 330
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 L 330
+[2017-05-23 13:55:16.693] [INFO] debug - [worker:1]  16 M 330
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  16 N 330
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  16 O 330
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  16 P 330
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  16 Q 330
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  16 R 330
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  16 S 330
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 A 国产
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 B JEEP
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 C BSUV
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 D Fix
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 E 3
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 F 0.125
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 G 3600
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 H 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 I 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 J 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 K 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 L 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 M 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 N 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 O 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 P 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 Q 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 R 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  17 S 300
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  18 A 国产
+[2017-05-23 13:55:16.694] [INFO] debug - [worker:1]  18 B JEEP
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 C BSUV
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 D DAA
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 E 3
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 F 0.125
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 G 360
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 H 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 I 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 J 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 K 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 L 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 M 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 N 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 O 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 P 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 Q 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 R 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  18 S 30
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 A 国产
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 B JEEP
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 C BSUV
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 D 预算总额
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 E 3
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 F 0.125
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 G 3960
+[2017-05-23 13:55:16.695] [INFO] debug - [worker:1]  19 H 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 I 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 J 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 K 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 L 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 M 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 N 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 O 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 P 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 Q 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 R 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  19 S 330
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 A 国产
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 B JEEP
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 C CSUV
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 D Fix
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 E 5
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 F 0.125
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 G 3600
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 H 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 I 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 J 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 K 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 L 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 M 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 N 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 O 300
+[2017-05-23 13:55:16.696] [INFO] debug - [worker:1]  20 P 300
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  20 Q 300
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  20 R 300
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  20 S 300
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 A 国产
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 B JEEP
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 C CSUV
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 D DAA
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 E 5
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 F 0.125
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 G 360
+[2017-05-23 13:55:16.697] [INFO] debug - [worker:1]  21 H 30
+[2017-05-23 13:55:16.698] [INFO] debug - [worker:1]  21 I 30
+[2017-05-23 13:55:16.698] [INFO] debug - [worker:1]  21 J 30
+[2017-05-23 13:55:16.698] [INFO] debug - [worker:1]  21 K 30
+[2017-05-23 13:55:16.698] [INFO] debug - [worker:1]  21 L 30
+[2017-05-23 13:55:16.698] [INFO] debug - [worker:1]  21 M 30
+[2017-05-23 13:55:16.698] [INFO] debug - [worker:1]  21 N 30
+[2017-05-23 13:55:16.699] [INFO] debug - [worker:1]  21 O 30
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  21 P 30
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  21 Q 30
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  21 R 30
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  21 S 30
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 A 国产
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 B JEEP
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 C CSUV
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 D 预算总额
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 E 5
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 F 0.125
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 G 3960
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 H 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 I 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 J 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 K 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 L 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 M 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 N 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 O 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 P 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 Q 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 R 330
+[2017-05-23 13:55:16.700] [INFO] debug - [worker:1]  22 S 330
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 A 国产
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 B FIAT
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 C FIAT
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 D Fix
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 E 6
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 F 0.125
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 G 3600
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 H 300
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 I 300
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 J 300
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 K 300
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 L 300
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 M 300
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 N 300
+[2017-05-23 13:55:16.701] [INFO] debug - [worker:1]  23 O 300
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  23 P 300
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  23 Q 300
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  23 R 300
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  23 S 300
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 A 国产
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 B FIAT
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 C FIAT
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 D DAA
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 E 6
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 F 0.125
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 G 360
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 H 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 I 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 J 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 K 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 L 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 M 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 N 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 O 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 P 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 Q 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 R 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  24 S 30
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  25 A 国产
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  25 B FIAT
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  25 C FIAT
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  25 D 预算总额
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  25 E 6
+[2017-05-23 13:55:16.702] [INFO] debug - [worker:1]  25 F 0.125
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 G 3960
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 H 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 I 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 J 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 K 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 L 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 M 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 N 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 O 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 P 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 Q 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 R 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  25 S 330
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 A 国产
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 B Chrysler
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 C Chrysler
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 D Fix
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 E 5
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 F 0.125
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 G 3600
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 H 300
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 I 300
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 J 300
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 K 300
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 L 300
+[2017-05-23 13:55:16.703] [INFO] debug - [worker:1]  26 M 300
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  26 N 300
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  26 O 300
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  26 P 300
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  26 Q 300
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  26 R 300
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  26 S 300
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 A 国产
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 B Chrysler
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 C Chrysler
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 D DAA
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 E 5
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 F 0.125
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 G 360
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 H 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 I 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 J 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 K 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 L 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 M 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 N 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 O 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 P 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 Q 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 R 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  27 S 30
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  28 A 国产
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  28 B Chrysler
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  28 C Chrysler
+[2017-05-23 13:55:16.704] [INFO] debug - [worker:1]  28 D 预算总额
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 E 5
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 F 0.125
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 G 3960
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 H 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 I 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 J 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 K 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 L 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 M 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 N 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 O 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 P 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 Q 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 R 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  28 S 330
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 A 国产Total
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 B 国产Total
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 C 国产Total
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 D Fix
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 F 0.625
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 G 18000
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 H 1500
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 I 1500
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 J 1500
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 K 1500
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 L 1500
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 M 1500
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 N 1500
+[2017-05-23 13:55:16.705] [INFO] debug - [worker:1]  29 O 1500
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  29 P 1500
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  29 Q 1500
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  29 R 1500
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  29 S 1500
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 A 国产Total
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 B 国产Total
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 C 国产Total
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 D DAA
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 E 0
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 F 0.625
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 G 1800
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 H 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 I 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 J 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 K 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 L 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 M 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 N 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 O 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 P 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 Q 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 R 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  30 S 150
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  31 A 国产Total
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  31 B 国产Total
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  31 C 国产Total
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  31 D 预算总额
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  31 E 0
+[2017-05-23 13:55:16.706] [INFO] debug - [worker:1]  31 F 0.625
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 G 19800
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 H 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 I 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 J 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 K 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 L 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 M 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 N 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 O 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 P 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 Q 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 R 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  31 S 1650
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 A Total
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 B Total
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 C Total
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 D Fix
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 F 1
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 G 28800
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 H 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 I 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 J 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 K 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 L 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 M 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 N 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 O 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 P 2400
+[2017-05-23 13:55:16.707] [INFO] debug - [worker:1]  32 Q 2400
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  32 R 2400
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  32 S 2400
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 A Total
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 B Total
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 C Total
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 D DAA
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 E 0
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 F 1
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 G 2880
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 H 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 I 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 J 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 K 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 L 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 M 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 N 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 O 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 P 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 Q 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 R 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  33 S 240
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  34 A Total
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  34 B Total
+[2017-05-23 13:55:16.708] [INFO] debug - [worker:1]  34 C Total
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 D 预算总额
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 E 0
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 F 1
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 G 31680
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 H 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 I 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 J 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 K 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 L 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 M 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 N 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 O 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 P 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 Q 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 R 2640
+[2017-05-23 13:55:16.709] [INFO] debug - [worker:1]  34 S 2640
+[2017-06-12 14:49:03.360] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-06-12 14:49:03.360] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-12 14:49:03.389] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-06-12 14:49:03.411] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-06-12 14:49:03.425] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-06-12 14:49:03.453] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-06-12 14:49:03.453] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-06-12 14:49:03.456] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-06-13 20:11:22.845] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-06-13 20:11:22.889] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-06-13 20:11:22.917] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-13 20:11:22.938] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-06-13 20:11:22.949] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-06-13 20:11:22.974] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-06-13 20:11:23.001] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-06-13 20:11:23.001] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-06-13 20:11:34.133] [INFO] debug - [worker:2] GET: /test/page1
+[2017-06-13 20:11:34.134] [INFO] debug - [worker:2] ************   co controller   ************
+[2017-06-13 20:11:34.137] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-06-13 20:11:34.144] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-06-13 20:11:34.146] [INFO] debug - [worker:2] http://www.zzkai.com:8888/getbooks
+[2017-06-13 20:11:34.190] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-06-13 20:11:34.192] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-06-13 20:11:34.192] [INFO] debug - [worker:2] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-06-13 20:11:55.186] [INFO] debug - [worker:2] POST: /test/commit-cmd
+[2017-06-13 20:11:55.187] [INFO] debug - [worker:2] ************   co controller   ************
+[2017-06-14 12:24:12.413] [INFO] debug - [worker:5] the protocol for web server is:http
+[2017-06-14 12:24:12.468] [INFO] debug - [worker:4] the protocol for web server is:http
+[2017-06-14 12:24:12.474] [INFO] debug - [worker:3] the protocol for web server is:http
+[2017-06-14 12:24:12.519] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:24:12.535] [INFO] debug - [worker:2] the protocol for web server is:http
+[2017-06-14 12:24:12.560] [INFO] debug - [worker:8] the protocol for web server is:http
+[2017-06-14 12:24:12.561] [INFO] debug - [worker:6] the protocol for web server is:http
+[2017-06-14 12:24:12.576] [INFO] debug - [worker:7] the protocol for web server is:http
+[2017-06-14 12:24:24.295] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:24:31.912] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:25:14.900] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:25:15.315] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:25:15.316] [INFO] debug - [worker:1] ************   controller   ************
+[2017-06-14 12:25:17.076] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:25:17.077] [INFO] debug - [worker:1] ************   controller   ************
+[2017-06-14 12:25:45.831] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:25:45.831] [INFO] debug - [worker:1] ************   controller   ************
+[2017-06-14 12:25:47.939] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:25:48.352] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:25:48.353] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:25:48.411] [INFO] debug - [worker:1] GET: /spa-bundle/management-spa-.js
+[2017-06-14 12:26:35.499] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:26:35.499] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:26:37.791] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:26:37.791] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:26:38.072] [INFO] debug - [worker:1] GET: /assets/porsche-font/TrueType/LT_21021.ttf
+[2017-06-14 12:27:09.326] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:27:09.327] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:27:09.904] [INFO] debug - [worker:1] GET: /assets/porsche-font/TrueType/LT_21021.ttf
+[2017-06-14 12:27:13.627] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:27:14.081] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:27:14.082] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:27:14.582] [INFO] debug - [worker:1] GET: /assets/porsche-font/TrueType/LT_21021.ttf
+[2017-06-14 12:28:01.486] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:28:02.154] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:28:02.154] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:28:30.553] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:28:30.562] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:29:35.271] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:29:35.271] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:40:47.201] [INFO] debug - [worker:1] POST: /api/get-books
+[2017-06-14 12:41:53.679] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:42:06.522] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:42:30.464] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:42:34.362] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:42:34.364] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:42:41.086] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:42:41.086] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:45:48.912] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:45:48.912] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:48:58.740] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:48:58.741] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:48:59.497] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:48:59.498] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:49:00.475] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:49:00.475] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:49:01.165] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:49:01.165] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:49:01.779] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:49:01.780] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:57:07.271] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 12:57:36.038] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:57:36.040] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:57:40.150] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:57:40.151] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:57:53.706] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 12:57:53.706] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 12:59:57.643] [INFO] debug - [worker:1] GET: /
+[2017-06-14 12:59:57.643] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:00:21.442] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:00:24.920] [INFO] debug - [worker:1] GET: /
+[2017-06-14 13:00:24.922] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:00:27.170] [INFO] debug - [worker:1] GET: /
+[2017-06-14 13:00:27.170] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:00:32.273] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-14 13:00:36.340] [INFO] debug - [worker:1] GET: /
+[2017-06-14 13:00:36.341] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:00:36.589] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-14 13:00:50.614] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 13:00:50.615] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:00:59.044] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-14 13:00:59.056] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:07:49.601] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:08:29.296] [INFO] debug - [worker:1] GET: /api/test-post
+[2017-06-14 13:09:36.783] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-14 13:09:36.785] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:09:36.786] [INFO] debug - [worker:1] body:::: {}
+[2017-06-14 13:10:01.873] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-14 13:10:01.874] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:10:01.874] [INFO] debug - [worker:1] body:::: {}
+[2017-06-14 13:10:48.875] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:10:52.613] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-14 13:13:30.268] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:13:32.853] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-14 13:14:33.136] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:14:35.396] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-14 13:14:35.753] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-14 13:14:35.753] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:14:35.754] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-14 13:15:00.136] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:15:00.226] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-14 13:15:00.268] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-14 13:15:40.641] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:15:40.887] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-14 13:15:40.890] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:15:40.892] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-14 13:15:57.903] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:16:10.543] [INFO] debug - [worker:1] GET: /test/page1
+[2017-06-14 13:16:10.545] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:16:10.547] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-06-14 13:16:10.557] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-06-14 13:16:10.559] [INFO] debug - [worker:1] http://www.zzkai.com:8888/getbooks
+[2017-06-14 13:16:11.018] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-06-14 13:16:11.020] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-06-14 13:16:11.036] [INFO] debug - [worker:1] data is: [{"bookName":"zero dawn","author":"zzk"},{"bookName":"fall in darkness","author":"fanasticsoul"}]
+[2017-06-14 13:17:16.271] [INFO] debug - [worker:1] POST: /test/save-vin-pic
+[2017-06-14 13:17:16.271] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:17:16.393] [INFO] debug - [worker:1] --------> { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-06-14 13:18:22.409] [INFO] debug - [worker:1] POST: /test/parse-excel
+[2017-06-14 13:18:22.410] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:18:22.415] [INFO] debug - [worker:1]  { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-06-14 13:19:47.742] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:19:48.656] [INFO] debug - [worker:1] POST: /test/parse-excel
+[2017-06-14 13:19:48.657] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:19:48.680] [INFO] debug - [worker:1]  { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-06-14 13:20:33.188] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:20:37.750] [INFO] debug - [worker:1] POST: /test/parse-excel
+[2017-06-14 13:20:37.751] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:20:37.772] [INFO] debug - [worker:1]  { a: 1, b: 2, c: [ 1, 2, 4 ], d: { a: 1, b: 2 } }
+[2017-06-14 13:20:37.987] [INFO] debug - [worker:1]  1 A DCCM/工作量
+[2017-06-14 13:20:37.988] [INFO] debug - [worker:1]  1 C 电子名片（8个模板）
+[2017-06-14 13:20:37.988] [INFO] debug - [worker:1]  1 D 线索自筹
+[2017-06-14 13:20:37.988] [INFO] debug - [worker:1]  1 E 线索下发，DCCM跟进调整
+[2017-06-14 13:20:37.988] [INFO] debug - [worker:1]  1 F 内容库展示(DCCM)
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 G 内容分享（好友/朋友圈）
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 H 数据监控
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 I 报表添加KPI
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 J 话术库增加跳转
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 K 试驾路线上传
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 L 试驾流程
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 M 新建
+[2017-06-14 13:20:37.989] [INFO] debug - [worker:1]  1 N 试驾历史
+[2017-06-14 13:20:37.990] [INFO] debug - [worker:1]  1 O 试驾主页入口
+[2017-06-14 13:20:37.990] [INFO] debug - [worker:1]  1 P DMS接口联调
+[2017-06-14 13:20:37.990] [INFO] debug - [worker:1]  1 Q DCCM首页
+[2017-06-14 13:20:37.990] [INFO] debug - [worker:1]  1 R RC
+[2017-06-14 13:20:37.991] [INFO] debug - [worker:1]  1 T 8月
+[2017-06-14 13:20:37.991] [INFO] debug - [worker:1]  1 U 9月
+[2017-06-14 13:20:37.991] [INFO] debug - [worker:1]  1 V 10月
+[2017-06-14 13:20:37.991] [INFO] debug - [worker:1]  1 W 11月
+[2017-06-14 13:20:37.992] [INFO] debug - [worker:1]  1 X 12月
+[2017-06-14 13:20:37.993] [INFO] debug - [worker:1]  1 Y 1月
+[2017-06-14 13:20:37.993] [INFO] debug - [worker:1]  1 Z 2月
+[2017-06-14 13:20:37.993] [INFO] debug - [worker:1]  NaN A 3月
+[2017-06-14 13:20:37.993] [INFO] debug - [worker:1]  NaN A 4月
+[2017-06-14 13:20:37.993] [INFO] debug - [worker:1]  NaN A 4月工作费用
+[2017-06-14 13:20:37.993] [INFO] debug - [worker:1]  NaN A 合计
+[2017-06-14 13:20:37.994] [INFO] debug - [worker:1]  2 A WOW
+[2017-06-14 13:20:37.994] [INFO] debug - [worker:1]  2 B 唐婉
+[2017-06-14 13:20:37.994] [INFO] debug - [worker:1]  2 E 5
+[2017-06-14 13:20:37.994] [INFO] debug - [worker:1]  2 F 3
+[2017-06-14 13:20:37.994] [INFO] debug - [worker:1]  2 H 4
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 L 10
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 N 2
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 P 13
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 Q 5
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 R 2800
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 S 300608.00000000006
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 U 22
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  2 X 63.36000000000001
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  NaN A 22
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  NaN A 61600
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  NaN A 107.36000000000001
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  NaN A 515.86
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  3 B 振招
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  3 C 5
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  3 D 3
+[2017-06-14 13:20:37.995] [INFO] debug - [worker:1]  3 E 5
+[2017-06-14 13:20:37.996] [INFO] debug - [worker:1]  3 F 8
+[2017-06-14 13:20:37.996] [INFO] debug - [worker:1]  3 G 5
+[2017-06-14 13:20:37.996] [INFO] debug - [worker:1]  3 I 2
+[2017-06-14 13:20:37.996] [INFO] debug - [worker:1]  3 J 2
+[2017-06-14 13:20:37.996] [INFO] debug - [worker:1]  3 K 6
+[2017-06-14 13:20:37.996] [INFO] debug - [worker:1]  3 L 20
+[2017-06-14 13:20:37.997] [INFO] debug - [worker:1]  3 M 1
+[2017-06-14 13:20:37.997] [INFO] debug - [worker:1]  3 N 3
+[2017-06-14 13:20:37.997] [INFO] debug - [worker:1]  3 O 3
+[2017-06-14 13:20:37.997] [INFO] debug - [worker:1]  3 Q 3
+[2017-06-14 13:20:37.997] [INFO] debug - [worker:1]  3 R 2800
+[2017-06-14 13:20:37.997] [INFO] debug - [worker:1]  3 S 317240
+[2017-06-14 13:20:38.002] [INFO] debug - [worker:1]  3 U 22
+[2017-06-14 13:20:38.002] [INFO] debug - [worker:1]  3 X 69.3
+[2017-06-14 13:20:38.002] [INFO] debug - [worker:1]  NaN A 22
+[2017-06-14 13:20:38.002] [INFO] debug - [worker:1]  NaN A 61600
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  NaN A 113.3
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  4 B 志勇
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  4 R 3000
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  4 S 312000
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  4 U 30
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  4 X 64
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  NaN A 10
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  NaN A 30000
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  NaN A 104
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  5 B 铁利
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  5 C 10
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  5 K 5
+[2017-06-14 13:20:38.003] [INFO] debug - [worker:1]  5 P 5
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  5 R 3000
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  5 S 324000
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  5 U 10
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  5 X 76
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  NaN A 22
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  NaN A 66000
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  NaN A 108
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  6 B 彦鸿
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  6 R 2500
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  6 S 82500
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  6 X 22
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  NaN A 11
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  NaN A 27500
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  NaN A 33
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  7 B 海峰
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  7 R 2800
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  7 S 61600
+[2017-06-14 13:20:38.004] [INFO] debug - [worker:1]  7 X 22
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  NaN A 0
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  NaN A 22
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  8 B 培文
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  8 E 1
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  8 R 2800
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  8 S 78960
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  8 U 10
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  8 X 5
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  NaN A 13.2
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  NaN A 36960
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  NaN A 28.2
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  NaN A MA
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  9 B 正楷
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  9 C 3
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  10 B UI
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  10 C 3
+[2017-06-14 13:20:38.005] [INFO] debug - [worker:1]  10 D 3
+[2017-06-14 13:20:38.006] [INFO] debug - [worker:1]  10 F 5
+[2017-06-14 13:20:38.006] [INFO] debug - [worker:1]  10 I 2
+[2017-06-14 13:20:38.006] [INFO] debug - [worker:1]  10 L 5
+[2017-06-14 13:20:38.006] [INFO] debug - [worker:1]  10 N 1
+[2017-06-14 13:20:38.006] [INFO] debug - [worker:1]  10 Q 3
+[2017-06-14 13:20:38.006] [INFO] debug - [worker:1]  11 A MA
+[2017-06-14 13:20:38.007] [INFO] debug - [worker:1]  11 B 伟东 SSE
+[2017-06-14 13:20:38.008] [INFO] debug - [worker:1]  11 R 2800
+[2017-06-14 13:20:38.009] [INFO] debug - [worker:1]  11 S 100800
+[2017-06-14 13:20:38.009] [INFO] debug - [worker:1]  11 X 26
+[2017-06-14 13:20:38.010] [INFO] debug - [worker:1]  NaN A 10
+[2017-06-14 13:20:38.011] [INFO] debug - [worker:1]  NaN A 28000
+[2017-06-14 13:20:38.011] [INFO] debug - [worker:1]  NaN A 36
+[2017-06-14 13:20:38.011] [INFO] debug - [worker:1]  NaN A 91
+[2017-06-14 13:20:38.025] [INFO] debug - [worker:1]  NaN A 244300
+[2017-06-14 13:20:38.025] [INFO] debug - [worker:1]  12 B 于博 Staf SE
+[2017-06-14 13:20:38.026] [INFO] debug - [worker:1]  12 R 2500
+[2017-06-14 13:20:38.026] [INFO] debug - [worker:1]  12 S 87500
+[2017-06-14 13:20:38.026] [INFO] debug - [worker:1]  12 X 25
+[2017-06-14 13:20:38.026] [INFO] debug - [worker:1]  NaN A 10
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 25000
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 35
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  13 B 杨京sse
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  13 R 2800
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  13 S 56000
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  13 X 15
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 5
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 14000
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 20
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 A WOW PO
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 B 新宇
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 C 10
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 P 2
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 R 2700
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 S 252719.99999999997
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 U 39.6
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  14 X 44
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 10
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 27000
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 93.6
+[2017-06-14 13:20:38.027] [INFO] debug - [worker:1]  NaN A 199.2
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  15 B serena
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  15 R 2700
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  15 S 71280
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  15 U 26.400000000000002
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  NaN A 0
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  NaN A 26.400000000000002
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  16 B Grace
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  16 C 30
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  16 P 5
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  16 R 2700
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  16 S 213840
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  16 X 57.2
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  NaN A 22
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  NaN A 59400
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  NaN A 79.2
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  NaN A 437060
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  NaN A 1311180
+[2017-06-14 13:20:38.028] [INFO] debug - [worker:1]  18 R 目前投入工时费用：
+[2017-06-14 13:20:38.029] [INFO] debug - [worker:1]  18 S 2259048
+[2017-06-14 13:20:38.029] [INFO] debug - [worker:1]  NaN A 目前工时投入：
+[2017-06-14 13:20:38.029] [INFO] debug - [worker:1]  NaN A 649
+[2017-06-14 13:20:38.029] [INFO] debug - [worker:1]  19 S 1692000
+[2017-06-14 13:20:38.029] [INFO] debug - [worker:1]  20 S 567048
+[2017-06-14 13:21:24.776] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:24:03.623] [INFO] debug - [worker:1] GET: /
+[2017-06-14 13:24:03.624] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:24:03.887] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-14 13:25:28.650] [INFO] debug - [worker:1] GET: /
+[2017-06-14 13:25:28.650] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:25:28.904] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-14 13:25:52.606] [INFO] debug - [worker:1] GET: /
+[2017-06-14 13:25:52.607] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-14 13:25:52.816] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-14 13:40:15.100] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-14 13:40:21.442] [INFO] debug - [worker:1] GET: /
+[2017-06-14 13:40:21.444] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 10:16:16.225] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-15 10:16:19.563] [INFO] debug - [worker:1] GET: /
+[2017-06-15 10:16:19.565] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 10:16:21.561] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-15 10:16:21.562] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 10:27:48.703] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 10:27:48.773] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 10:27:48.774] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 10:27:48.774] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 10:27:49.591] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-15 10:27:49.592] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 10:27:52.231] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 10:27:52.231] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 10:27:52.231] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 11:03:49.643] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-15 11:03:49.643] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 11:06:29.723] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 11:06:29.732] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 11:06:29.732] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 11:06:29.732] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 11:06:30.683] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-15 11:06:30.684] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:24:59.220] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-15 12:26:15.815] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 12:26:15.847] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 12:26:15.848] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:26:15.849] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 12:26:35.659] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-15 12:26:54.175] [INFO] debug - [worker:1] GET: /
+[2017-06-15 12:26:54.177] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:27:36.260] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 12:27:36.291] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 12:27:36.291] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:34:28.101] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 12:34:28.108] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 12:34:28.108] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:34:36.148] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 12:34:36.165] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 12:34:36.166] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:34:36.166] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 12:34:49.656] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 12:34:49.664] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 12:34:49.664] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:36:01.958] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 12:36:01.965] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 12:36:01.966] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:36:33.319] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 12:36:33.328] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 12:36:33.328] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 12:46:08.859] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 12:46:08.864] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 12:46:08.864] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:20:47.439] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 14:20:47.444] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 14:20:47.445] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:20:52.229] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 14:20:52.229] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:21:40.339] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 14:21:40.345] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 14:21:40.345] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:40:09.159] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 14:40:09.174] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 14:40:09.176] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:40:09.176] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 14:45:16.607] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 14:45:16.613] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 14:45:16.613] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:48:03.425] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 14:48:03.428] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 14:48:03.429] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:49:43.209] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 14:49:43.215] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 14:49:43.215] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:51:37.294] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 14:51:37.299] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 14:51:37.299] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:59:56.883] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 14:59:56.904] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 14:59:56.904] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 14:59:56.905] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 15:00:17.494] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:00:17.500] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:00:17.500] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:03:37.511] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:03:37.518] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:03:37.518] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:08:37.065] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:08:37.076] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:08:37.077] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:09:38.775] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 15:09:38.791] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 15:09:38.791] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:09:38.792] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 15:10:45.416] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:10:45.420] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:10:45.421] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:13:51.974] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:13:51.980] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:13:51.980] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:15:16.729] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:15:16.733] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:15:16.734] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:15:43.752] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:15:43.756] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:15:43.756] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:15:59.992] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 15:16:00.010] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 15:16:00.010] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:16:00.010] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 15:16:00.542] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:16:00.548] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:16:00.548] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:19:02.999] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-15 15:19:09.267] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:19:09.302] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:19:09.302] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:25:42.706] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:25:42.722] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:25:42.722] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:26:08.306] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:26:08.340] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:26:08.340] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:34:21.087] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:34:21.095] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:34:21.096] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:34:43.146] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:34:43.152] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:34:43.152] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:43:00.227] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:43:00.237] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:43:00.237] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:45:44.620] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-15 15:45:44.645] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-15 15:45:44.646] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:45:44.647] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-15 15:46:31.486] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:46:31.500] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:46:31.500] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:46:36.852] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:46:36.874] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:46:36.875] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 15:47:28.050] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 15:47:28.072] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 15:47:28.072] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 18:16:55.058] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-15 18:16:55.058] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 18:16:57.157] [INFO] debug - [worker:1] GET: /api/get-books
+[2017-06-15 18:16:57.158] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 19:25:42.391] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 19:25:57.866] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 19:25:57.886] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 19:25:57.886] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 19:25:59.738] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 19:25:59.738] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 19:25:59.990] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 19:25:59.991] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 19:26:00.159] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 19:26:00.159] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 19:26:00.306] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 19:26:00.308] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-15 19:26:05.490] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-15 19:26:05.513] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-15 19:26:05.514] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-16 14:40:13.430] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-16 14:40:13.448] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-16 14:40:13.449] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-16 14:41:03.962] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-16 14:41:03.981] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-16 14:41:03.982] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-16 14:59:00.922] [INFO] debug - [worker:1] OPTIONS: /api/get-info
+[2017-06-16 14:59:00.928] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-16 14:59:00.929] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-16 14:59:01.855] [INFO] debug - [worker:1] OPTIONS: /api/test-post
+[2017-06-16 14:59:01.864] [INFO] debug - [worker:1] POST: /api/test-post
+[2017-06-16 14:59:01.864] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-16 14:59:01.864] [INFO] debug - [worker:1] body:::: { param: 'test-post' }
+[2017-06-16 14:59:02.645] [INFO] debug - [worker:1] POST: /api/get-info
+[2017-06-16 14:59:02.645] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:34:07.333] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 12:34:21.178] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:34:21.179] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:34:21.724] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:34:25.493] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:34:27.959] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:34:27.971] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:34:28.587] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:34:28.633] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:36:49.696] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 12:41:45.100] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:41:45.101] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:41:45.597] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:41:50.324] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 12:41:51.662] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:41:51.664] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:41:51.797] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:41:53.080] [INFO] debug - [worker:1] POST: /api/sps/login
+[2017-06-29 12:42:06.435] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 12:42:11.738] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:42:14.239] [INFO] debug - [worker:1] POST: /api/sps/login
+[2017-06-29 12:44:38.579] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 12:44:41.237] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:44:41.237] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:44:41.832] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:44:41.880] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:44:44.315] [INFO] debug - [worker:1] POST: /api/sps/login
+[2017-06-29 12:46:20.935] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 12:46:21.950] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:46:21.951] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:46:22.800] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:46:22.852] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:46:24.282] [INFO] debug - [worker:1] GET: /api/sps/sysAccountLocal/getAccoutAndRoleList/100
+[2017-06-29 12:48:41.120] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 12:48:43.031] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:48:43.033] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:48:43.660] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:48:43.701] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:49:05.688] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 12:50:27.099] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:51:48.677] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 12:57:34.566] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:59:36.606] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:59:36.606] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:59:37.207] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:59:37.247] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:59:47.479] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 12:59:53.197] [INFO] debug - [worker:1] GET: /
+[2017-06-29 12:59:53.200] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 12:59:53.681] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 12:59:53.724] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 13:05:47.427] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:06:45.309] [INFO] debug - [worker:1] GET: /
+[2017-06-29 13:06:45.310] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 13:06:45.816] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 13:06:53.440] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 13:07:00.979] [INFO] debug - [worker:1] GET: /
+[2017-06-29 13:07:00.980] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 13:07:01.473] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 13:07:01.512] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 13:07:49.196] [INFO] debug - [worker:1] GET: /
+[2017-06-29 13:07:49.196] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 13:07:50.057] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 13:07:50.109] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 13:07:54.117] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:09:24.482] [INFO] debug - [worker:1] OPTIONS: /api/sps/login
+[2017-06-29 13:09:25.328] [INFO] debug - [worker:1] OPTIONS: /api/sps/login
+[2017-06-29 13:09:37.955] [INFO] debug - [worker:1] OPTIONS: /api/sps/login
+[2017-06-29 13:10:24.992] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:10:55.886] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:11:37.648] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:11:37.948] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:11:41.758] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:11:49.524] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:11:51.363] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:12:40.431] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:12:41.211] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:13:59.542] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:14:00.975] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:14:07.710] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:14:33.219] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:15:16.745] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:15:17.636] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:15:25.253] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:15:25.364] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:16:22.626] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:16:23.304] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:16:29.562] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:16:40.378] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:16:47.173] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:17:01.280] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:17:12.398] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:17:38.622] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:18:42.243] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:18:44.949] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:18:52.447] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:19:30.048] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:19:35.106] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:19:39.481] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:20:00.862] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:20:16.081] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:20:17.518] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:21:01.601] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:21:09.038] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:21:32.642] [INFO] debug - [worker:1] the protocol for web server is:http
+[2017-06-29 13:21:32.830] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:21:32.830] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:21:43.480] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:21:43.481] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  'upgrade-insecure-requests': '1',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:23:39.201] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:23:39.201] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:26:27.023] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:26:27.023] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:26:40.349] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:26:40.349] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:26:44.441] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:26:44.441] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:27:19.284] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:27:19.285] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:28:14.868] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:28:14.869] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:29:11.241] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:29:11.242] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: '*/*',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:29:41.381] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:29:41.382] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:29:50.701] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:29:50.701] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:29:53.417] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:29:53.417] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:30:08.913] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:30:08.913] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:30:17.101] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:30:17.101] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  'upgrade-insecure-requests': '1',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:31:19.094] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:31:19.094] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  origin: 'http://localhost:3999',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 13:31:28.527] [INFO] debug - [worker:1] GET: /api/sps/customerInfo/excel/template/download
+[2017-06-29 13:31:28.530] [INFO] debug - [worker:1]  { host: 'localhost:3222',
+  connection: 'keep-alive',
+  'upgrade-insecure-requests': '1',
+  'user-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.109 Safari/537.36',
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  referer: 'http://localhost:3999/',
+  'accept-encoding': 'gzip, deflate, br',
+  'accept-language': 'zh-CN,zh;q=0.8',
+  'if-none-match': 'W/"d1d7-15c9b941c64"',
+  'if-modified-since': 'Mon, 12 Jun 2017 09:13:14 GMT' }
+[2017-06-29 14:41:28.538] [INFO] debug - [worker:1] GET: /
+[2017-06-29 14:41:28.539] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 14:41:29.032] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 14:41:29.083] [INFO] debug - [worker:1] GET: /antd.css.map
+[2017-06-29 16:46:46.737] [INFO] debug - [worker:1] GET: /
+[2017-06-29 16:46:46.738] [INFO] debug - [worker:1] ************   co controller   ************
+[2017-06-29 16:46:47.332] [INFO] debug - [worker:1] GET: /assets/image/manager-platform/login-bg.png
+[2017-06-29 16:46:47.366] [INFO] debug - [worker:1] GET: /antd.css.map

@@ -1,0 +1,198 @@
+
+.articleList{
+  font-size: .35rem;;
+  background-color: #fff;
+  height: 100%;
+}
+
+.articleList .activeOrder{
+  color: #0063ba;
+  border-bottom: 2px solid #0063ba;
+}
+
+.articleList .headerBox{
+  box-sizing: border-box;
+  height:98px;
+  text-align: center;
+  font-size: .32rem;
+  padding-top: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.articleList .headerBox .item{
+  display: inline-block;
+  width: 33%;
+}
+
+.articleList .headerBox .item .number{
+  position: relative;
+  font-family: bold-font,sans-serif;
+  font-size: .68rem;
+  font-weight: 900;
+}
+
+.articleList .headerBox .item .number .corner{
+  position: absolute;
+  display: inline-block;
+  top:-8px;
+  right:21%;
+  width: .38rem;
+  height: .38rem;
+  line-height: .38rem;
+  font-size: .2rem;
+  border-radius: .18rem;
+  color: white;
+  background-color: #ff5a00;
+  box-shadow:0 1px 3px #ffcba6;
+}
+
+.articleList .headerBox .item .share{
+  margin: 0 auto;
+  width: 70%;
+  height:.38rem;
+  line-height: .38rem;
+  color: white;
+  border-radius: 12px;
+  padding-left: 6px;
+  background-color: #0063ba;
+  font-size: .25rem;
+}
+
+.articleList .searchBox{
+  box-sizing: border-box;
+  height:120px;
+  text-align: center;
+  padding-top: 10px;
+  margin: 0 10px;
+  margin-top: 3px;/*不加这个top值，ios里弹出键盘输入两个字符后，上面就白了，奇葩*/
+  border-bottom: 1px solid lightgray;
+}
+
+.articleList .searchBox .inputArea{
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border: none;
+  box-sizing: border-box;
+  height:30px;
+  line-height: 30px;
+  width: calc(100% - 80px);
+  font-size: .25rem;
+  text-align: left;
+  padding-left: .25rem;
+  background-color: #E8E8E8;
+  border-bottom: 1px solid lightgray;
+}
+
+.articleList .searchBox .searchBtn{
+  border:none;
+  vertical-align: top;
+  width:80px;
+  height: 30px;
+  font-size: .25rem;
+  background-color: #0063ba;
+  color: white;
+}
+
+.articleList .searchBox .item{
+  display: inline-block;
+  vertical-align: top;
+  width:30%;
+  height: 30px;
+  margin-top: 15px;
+  color: #0063ba;
+  border-bottom: 1px solid #DCDCDC;
+  font-size: .3rem;
+}
+
+.articleList .searchBox .item .selectorLabel{
+  display: inline-block;
+  width:82%;
+  vertical-align: top;
+  overflow-x: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
+
+.articleList .searchBox .item .selectorIcon{
+  display: inline-block;
+  vertical-align: top;
+}
+
+.articleList .searchBox .itemGap{
+  display: inline-block;
+  vertical-align: top;
+  width:5%;
+  height: 30px;
+  margin-top: 15px;
+  color: white;
+  border-bottom: 1px solid #DCDCDC;
+}
+
+.articleList .searchBox .order{
+  display: inline-block;
+  vertical-align: top;
+  width:calc(12% - 10px);
+  height: 30px;
+  line-height: 30px;
+  /*color: #0070BF;*/
+  font-size: .25rem;
+}
+
+.articleList .searchBox .orderFactor{
+  display: inline-block;
+  vertical-align: top;
+  width:20%;
+  height: 30px;
+  line-height: 30px;
+  font-size: .25rem;
+}
+
+.articleList .searchBox .recommendIcon{
+  display: inline-block;
+  vertical-align: top;
+  width:5%;
+  height: 30px;
+  line-height: 30px;
+  font-size: .25rem;
+  color: #0063ba;
+}
+
+.articleList .searchBox .recommend{
+  display: inline-block;
+  vertical-align: top;
+  width:22%;
+  height: 30px;
+  text-align: left;
+  line-height: 30px;
+  font-size: .25rem;
+}
+
+.articleList .articleBox{
+  height: calc(100% - 220px);
+  padding: 0 10px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling : touch;
+}
+
+.articleList .total{
+  text-align: center;
+  font-size: .25rem;
+  color: grey;
+  padding: 8px 0;
+}
+
+.articleList .total:before,.articleList .total:after{
+  display: inline-block;
+  vertical-align: middle;
+  content: '';
+  background-color: gainsboro;
+  width:100px;
+  height: 1px;
+}
+
+.articleList .articleBox .more{
+  text-align: center;
+  font-size: .25rem;
+  color: grey;
+  padding: 12px 0;
+}

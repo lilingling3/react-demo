@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<style>
+  html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+  }
+
+  .header{
+    height: 100px;
+    width: 100%;
+    background-color: pink;
+  }
+
+  .left{
+    display: inline-block;
+    width: 100px;
+    height: calc(100% - 100px);
+    background-color: brown;
+  }
+
+  .content{
+    display: inline-block;
+    width: calc(100% - 200px);
+    height: calc(100% - 100px);
+    background-color: blueviolet;
+  }
+
+  .right{
+    display: inline-block;
+    width: 100px;
+    height: calc(100% - 100px);
+    background-color: brown;
+  }
+
+</style>
+
+
+<div class="header">this is header</div>
+<div class="left"></div><div class="content"></div><div class="right"></div>
+
+
+
+</body>
+</html>

@@ -1,0 +1,108 @@
+[2017-06-15 10:16:19.613] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:50ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-15 10:16:21.562] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-15 10:27:48.777] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:4ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 10:27:49.592] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-15 10:27:52.232] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 11:03:49.644] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-15 11:06:29.734] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:3ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 11:06:30.684] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-15 12:26:15.854] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:6ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 12:26:54.181] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:6ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-15 12:27:36.292] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 12:34:28.109] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 12:34:36.170] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:5ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 12:34:49.665] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 12:36:01.967] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:2ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 12:36:33.329] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 12:46:08.865] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:20:47.445] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:20:52.229] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:21:40.345] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:40:09.177] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:3ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 14:45:16.613] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:48:03.429] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:49:43.216] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:51:37.299] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 14:59:56.905] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 15:00:17.501] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:03:37.519] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:08:37.078] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:2ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:09:38.792] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 15:10:45.421] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:13:51.980] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:15:16.734] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:15:43.756] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:16:00.011] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 15:16:00.548] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:19:09.305] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:4ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:25:42.722] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:26:08.351] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:11ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:34:21.096] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:34:43.153] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:43:00.238] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:45:44.651] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:6ms,url:/api/test-post,requestData:{"param":"test-post"},responseData:{"data":[{"name":1111,"age":22222}]}
+
+[2017-06-15 15:46:31.502] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:2ms,url:/api/get-info,requestData:{"param":"test-post"},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:46:36.875] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{"param":"test-post"},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 15:47:28.072] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{"param":"post-info"},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 18:16:55.059] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-15 18:16:57.158] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/api/get-books,responseData:{"data":[{"name":1,"age":2}]}
+
+[2017-06-15 19:25:57.886] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 19:25:59.738] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 19:25:59.992] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:2ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 19:26:00.159] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:0ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 19:26:00.309] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:3ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+
+[2017-06-15 19:26:05.514] [INFO] httpAccess - [worker:1] method:POST,elapsedTime:1ms,url:/api/get-info,requestData:{},responseData:{"data":{"name":"张三","sex":"男","age":20}}
+

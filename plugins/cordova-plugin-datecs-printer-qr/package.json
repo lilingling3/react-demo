@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-datecs-printer-qr",
+        "scope": null,
+        "escapedName": "cordova-plugin-datecs-printer-qr",
+        "name": "cordova-plugin-datecs-printer-qr",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\workspace\\dccm-react\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-datecs-printer-qr@latest",
+  "_id": "cordova-plugin-datecs-printer-qr@0.4.4",
+  "_inCache": true,
+  "_location": "/cordova-plugin-datecs-printer-qr",
+  "_nodeVersion": "4.2.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-datecs-printer-qr-0.4.4.tgz_1467055120738_0.2064372142776847"
+  },
+  "_npmUser": {
+    "name": "gcamposinno",
+    "email": "gcampos@innovativeideas.com.br"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-datecs-printer-qr",
+    "scope": null,
+    "escapedName": "cordova-plugin-datecs-printer-qr",
+    "name": "cordova-plugin-datecs-printer-qr",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-datecs-printer-qr/-/cordova-plugin-datecs-printer-qr-0.4.4.tgz",
+  "_shasum": "168f9f35e9cdc383ac6a0b5a8b6b54b657a3e0b3",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-datecs-printer-qr",
+  "_where": "C:\\workspace\\dccm-react\\node_modules",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/gustavocampos/cordova-plugin-datecs-printer/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-datecs-printer-qr",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Datecs Printer Plugin QR Code",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "168f9f35e9cdc383ac6a0b5a8b6b54b657a3e0b3",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-datecs-printer-qr/-/cordova-plugin-datecs-printer-qr-0.4.4.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "gitHead": "7edcbc9d9228d7fe400b864c16e95c052cd2c4a3",
+  "homepage": "https://github.com/gustavocampos/cordova-plugin-datecs-printer#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "datecs",
+    "printer",
+    "bluetooth"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "gcamposinno",
+      "email": "gcampos@innovativeideas.com.br"
+    }
+  ],
+  "name": "cordova-plugin-datecs-printer-qr",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavocampos/cordova-plugin-datecs-printer.git"
+  },
+  "scripts": {},
+  "version": "0.4.4"
+}

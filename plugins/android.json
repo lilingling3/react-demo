@@ -1,0 +1,50 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.cordova.plugins.sms": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "com.darktalker.cordova.screenshot": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-app-version": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-printer": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-sms": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-wechat": {
+            "WECHATAPPID": "wxf8c358c7946c8952",
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.boldseas.MVP.IOS"
+        }
+    }
+}

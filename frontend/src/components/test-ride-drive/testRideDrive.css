@@ -1,0 +1,523 @@
+.gTestDrive {
+  background: #ECEBEB;
+  height: 100%;
+}
+
+.gStep1, .gStep6 {
+  padding-top: 0.6rem;
+}
+
+.gStep1 .selectInput {
+  margin: 0 0.5rem;
+}
+
+.gStep1 .selectInput input {
+  text-align: center;
+  padding: 0.15rem 1.0rem;
+}
+
+.gStep1 .selectInput span {
+  text-align: center;
+  font-size: 0.22rem;
+  color: #999;
+  height: 0.6rem;
+  line-height: 0.6rem;
+}
+
+.gStep1 .gSearchBtn {
+  margin: 4.86rem 2.08rem 0;
+  font-size: 0.28rem;
+  text-align: center;
+
+}
+
+.gStep2 {
+  padding-bottom: 17px;
+  overflow-x: hidden;
+}
+
+.gStep2 input{
+  cursor: pointer;
+}
+
+.gStep2, .gStep3 {
+  background: #ECEBEB;
+  padding-top: 17px;
+  font-size: 14px;
+}
+
+.gtime-horizontal {
+  list-style-type: none;
+  font-size: 11px;
+  margin: 0px 45px;
+  border-top: 1px solid #D8D8D8;
+}
+
+.gtime-horizontal li {
+  position: relative;
+  padding-top: 14px;
+
+}
+
+.gtime-horizontal li b {
+  display: inline-block;
+  width: 38px;
+  height: 4px;
+  background: #ECEBEB;
+  position: absolute;
+  top: -2px;
+}
+
+.gtime-horizontal li .gtimeLastIcon {
+  right: 0px;
+}
+
+.gtimeCheckBox {
+  left: 13px;
+  top: -5px;
+}
+
+.gtime-horizontal li .glastTimeText {
+  position: absolute;
+  right: 0px;
+}
+
+.gStep2 .gRegistInfo {
+  padding: 0 10px;
+  margin-top: 35px;
+}
+
+.gStep2 .gRegistInfo > div {
+  margin-bottom: 10px;
+}
+
+.gStep2 .gSearchBtn {
+
+  width: calc(100% - 166px);
+  text-align: center;
+  bottom: 23px;
+  margin: 0 auto;
+}
+
+.gStep2 .selectStatus {
+  margin-top: 15px !important;
+}
+
+.gStep3 .gProtocol {
+  background: #fff;
+  margin: 0.8rem 0.2rem 0.3rem;
+  border: 1px solid #979797;
+  color: #333;
+
+}
+
+.gStep3 .gProtocol > h1 {
+  font-size: 0.28rem;
+  text-align: center;
+}
+
+.gStep3 .gProtocol > h1 + p {
+  padding: 0 0.2rem;
+  margin-bottom: 5px;
+}
+
+.gStep3 .gProtocol > h1 + p img {
+  width: 0.94rem;
+}
+
+.gStep3 .gProtocol ul {
+  border-bottom: 1px solid #999;
+}
+
+.gStep3 .gProtocol ul li:not(.gSign) {
+  border-top: 1px solid #999;
+  height: 0.52rem;
+  line-height: 0.52rem;
+  padding: 0 0.2rem;
+}
+
+.gStep3 .gProtocol ul li > span:first-child {
+  border-right: 1px solid #999;
+  box-sizing: border-box;
+}
+
+.gStep3 .gProtocol ul li > span:last-child {
+  padding-left: 15px;
+  box-sizing: border-box;
+}
+
+.gStep3 .gProtocol article {
+  margin: 0.24rem 0;
+  padding: 0 0.2rem;
+  font-size: 0.24rem;
+  line-height: 0.32rem;
+
+}
+
+.gStep3 .gReaded {
+  position: relative;
+  padding-left: 30px;
+  height: 0.8rem;
+  line-height: 40px;
+  font-size: 0.28rem;
+
+  font-weight: bold;
+}
+
+.gStep3 .gReaded .checkboxOne {
+  left: 0.2rem;
+  top: 0.28rem;
+}
+
+.gStep3 .popOperate {
+  margin: 0px;
+  padding: 0 10px 0.3rem;
+}
+
+.gStep5 {
+  position: relative;
+  height: calc(100% - 37px);
+
+}
+
+.gStep5 .gRegistInfo {
+  margin-top: 48px;
+}
+
+.gStep5 .gOperateBox, .gStep6 .gOperateBox {
+  position: absolute;
+  bottom: 18px;
+  width: 100%;
+  margin-bottom: 0px;
+  padding: 0 0.1rem;
+  left: 0;
+  box-sizing: border-box;
+}
+
+.gStep6 {
+  font-size: 0.28rem;
+}
+
+.gStep6 .gQuestionnaire {
+  margin: 0.2rem;
+  font-size: 0.3rem;
+}
+
+.gStep6 .gQuestionnaire > p > span {
+  text-align: center;
+  height: 1.0rem;
+  line-height: 1.0rem;
+  background: #DEDDDD;
+  margin-top: 0.2rem;
+}
+
+.gStep6 .gQuestion {
+  /*margin:0.2rem 0;*/
+  border: 1px solid #979797;
+  background: #fff;
+  border-radius: 0.1rem;
+
+}
+
+.gStep6 ul {
+  list-style: none;
+}
+
+.gStep6 .gQuestion > p {
+  height: 1.06rem;
+  line-height: 1.06rem;
+  margin: 0 0.4rem;
+  border-bottom: 1px solid #979797;
+}
+
+.gStep6 .gQuestion textarea {
+  padding: 10px;
+  height: 80px;
+  width: calc(100% - 30px);
+  border: 1px solid #999;
+  margin: 50px 15px;
+  box-sizing: border-box;
+  resize: none;
+}
+
+.gStep6 .gQuestion li {
+  margin-bottom: 0.5rem;
+  font-size: 0.28rem;
+}
+
+.gStep6 .gCarLine {
+  padding-top: 0.4rem;
+}
+
+.gStep6 .gCarLine span .iconfont {
+  position: relative;
+  top: -0.2rem;
+}
+
+.gStep6 .gCarLine .icon-che1-copy:before {
+  content: "\e608";
+  color: #BD0114;
+  font-size: 0.6rem;
+}
+
+.gStep6 .icon-che1-copy pre {
+  position: relative;
+  top: -0.7rem;
+  font-size: 0.24rem;
+  color: #BD0114;
+}
+
+.gStep6 .gCarLine span {
+  padding: 0 0.14rem;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.gStep6 .gCarLine span:first-child {
+  text-align: left;
+}
+
+.gStep6 .gCarLine span:last-child {
+  text-align: right;
+}
+
+.gStep6 .gCarLine span .gLine {
+  display: inline-block;
+  width: 100%;
+  height: 0.06rem;
+  background: #D8D8D8;
+  border: 1px solid #979797;
+  box-sizing: border-box;
+}
+
+.gStep6 .gCarLine span .gCircle {
+  width: 0.2rem;
+  height: 0.2rem;
+  border-radius: 50%;
+  background: #D8D8D8;
+  display: inline-block;
+}
+
+.gStep6 .feelingLabel{
+  display: block;
+  margin-top: 60px;
+  text-align: center;
+  font-size: .36rem;
+  font-weight: 600;
+}
+
+.gStep6 .scoreLabel{
+  display: block;
+  margin-top: 30px;
+  text-align: center;
+  font-size: .32rem;
+  font-weight: 500;
+}
+
+.gStep6 .score{
+  margin-top: 20px;
+  text-align: center;
+  font-size: .36rem;
+  font-weight: 600;
+}
+
+.gStep6 .score input{
+  border: none;
+  border-radius: 0;
+  border-bottom: 2px solid black;
+  text-align: center;
+  background-color: transparent;
+}
+
+.gStep2 .selectInputP {
+  /*border:1px solid red;*/
+  position: relative;
+  min-height: 60px;
+}
+
+.gStep2 .selectInputP .icon-paizhao {
+  position: absolute;
+  top: 35px;
+  right: 0;
+}
+
+/*.gStep2 .selectInputP .paizhao .clearfix {*/
+  /*clear: both;*/
+  /*height: 0;*/
+  /*line-height: 0;*/
+  /*font-size: 0*/
+/*}*/
+
+.gStep2 .selectInputP  .iconfont {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  background: none;
+  top: 35px;
+  right: 12px;
+}
+
+.gStep2 .selectInputP  .icon-modify {
+  top: 20px;
+  right: 1px;
+}
+
+.gStep2 .selectInputP .icon-paizhao:before {
+  content: "\e665";
+  right: 3.1rem;
+  font-size: 0.6rem;
+  color: #999;
+  /*display: table-cell;*/
+  /*vertical-align: middle;*/
+}
+
+.gStep2 .selectInputP input{
+  text-align: center;
+  width: 99%;
+  height: 32px;
+  margin-top: 5px;
+  border: 1px solid #979797;
+}
+
+.gStep2 .selectInputP i[id=photoI]{
+  position: absolute;
+  text-align: center;
+  top:25px;
+  right:3px;
+}
+
+.gSignStep {
+  padding-top: 10px;
+  overflow: hidden;
+  font-size: 0.28rem;
+}
+
+.gSignStep .popOperate > p:not(.gEnd) {
+  padding-right: 34px;
+  box-sizing: border-box;
+}
+
+.gSignStep .popOperate {
+  transform: rotate(-90deg);
+  transform-origin: top right;
+  position: absolute;
+  top: -10px;
+  right: 60px;
+  margin: 0.3rem 0 0 0;
+}
+
+.gSignStep .header{
+  box-sizing: border-box;
+  position:relative;
+  display:inline-block;
+  width:38px;
+  text-align:center;
+  vertical-align:top;
+  padding-top: 66%;
+}
+
+.gSignStep .header2{
+  box-sizing: border-box;
+  position:relative;
+  display:inline-block;
+  width:38px;
+  text-align:center;
+  vertical-align:top;
+  padding-top: 46%;
+}
+
+.gSignStep .header p,.gSignStep .header2 p{
+  font-size: .45rem;
+  transform: rotate(-90deg);
+  transform-origin: top left;
+  padding-top: 2px;
+}
+
+.gQuestion {
+  margin: 0 0.2rem;
+}
+
+.gCarLine > span {
+  float: left;
+}
+
+.gStep6 .CarLineTop {
+  margin-top: 0.6rem;
+}
+
+.gAnswers {
+  margin: 0 14px;
+  font-size: 0.26rem;
+  color: #333;
+
+}
+
+.gAnswers li {
+  margin-bottom: 0.24rem;
+
+}
+
+.gAnswers ul li .col-sm-5 {
+  text-align: right;
+  padding-right: 0.2rem;
+  box-sizing: border-box;
+
+}
+
+.gAnswers ul li .col-sm-12:last-child {
+  padding: 0.24rem 0.4rem 0;
+  box-sizing: border-box;
+}
+
+.gStep5 .gRegistInfo > div:not(.gOperateBox) {
+  position: relative;
+}
+
+.gStep5 .gRegistInfo > div > i {
+  position: absolute;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.gSign {
+  border-top: 1px solid #999;
+  vertical-align: middle;
+  padding: 0 0.2rem;
+  line-height: 0.52rem;
+  text-align: center;
+}
+
+.gSign p {
+  text-align: left;
+}
+
+.gSign img {
+  width: 200px;
+}
+
+.headerIconForTestDrive {
+  position: fixed;
+  z-index: 3;
+  color: #fff;
+  font-size: .5rem;
+  left: .1rem;
+  top: 16px;
+}
+
+.gStep2 .gSearchBtn {
+  margin-top: 50px;
+  /*height: calc(100% - 34px);*/
+}
+
+/*.gStep3  .sendEmail{
+	width: 100%;
+	height: 100%;
+}*/
+.gStep3 .am-modal {
+  z-index: 1000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

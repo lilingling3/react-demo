@@ -1,0 +1,33 @@
+.chooseTemplete{
+    font-size: .32rem;
+    background-color:#e9e8e8;
+    height:100%;
+    overflow: scroll;
+}
+
+.chooseTemplete .header {
+    font-size: .32rem;
+    position: relative;
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 38px;
+    line-height: 38px;
+}
+
+.chooseTemplete .headerIcon{
+    position: absolute;
+    font-size: .5rem;
+    left: .1rem;
+    top: 2px;
+}
+
+.chooseTemplete .sliderItem .sliderSubItem{
+    display:inline-block;
+    border-radius:10px;
+    width:auto;
+    height:auto;
+    height:100%;
+    width:90%;
+    margin:5%;
+}

@@ -1,0 +1,28 @@
+[2017-06-29 12:34:21.220] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:42ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:34:27.971] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:12ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:41:45.101] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:41:51.670] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:8ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:44:41.240] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:3ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:46:21.955] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:5ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:48:43.039] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:8ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:59:36.607] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 12:59:53.200] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:3ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 13:06:45.313] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:4ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 13:07:00.980] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 13:07:49.197] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 14:41:28.544] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:6ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+
+[2017-06-29 16:46:46.738] [INFO] httpAccess - [worker:1] method:GET,elapsedTime:1ms,url:/,responseData:{"bundleVersion":"1.0.2"}
+

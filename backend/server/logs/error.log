@@ -1,0 +1,113 @@
+[2017-05-05 14:21:00.937] [ERROR] error - [worker:1] / not found!
+[2017-05-05 14:21:01.140] [ERROR] error - [worker:1] / not found!
+[2017-05-05 14:21:05.499] [ERROR] error - [worker:1] /page1 not found!
+[2017-05-05 14:29:04.826] [ERROR] error - [worker:2] /apple-touch-icon-precomposed.png not found!
+[2017-05-05 14:29:04.887] [ERROR] error - [worker:2] /apple-touch-icon.png not found!
+[2017-05-05 14:54:28.968] [ERROR] error - [worker:6] /page1 not found!
+[2017-05-05 14:54:31.732] [ERROR] error - [worker:6] / not found!
+[2017-05-05 14:54:34.670] [ERROR] error - [worker:6] /page1 not found!
+[2017-05-23 13:41:55.141] [INFO] error - [worker:1]  SyntaxError: Unexpected token o in JSON at position 1
+    at Object.parse (native)
+    at exports.saveVinPic (/opt/develop/project/node/express-guide/server/src/controller/test/ctrl.js:55:20)
+    at next (native)
+    at onFulfilled (/opt/develop/project/node/express-guide/node_modules/co/index.js:65:19)
+[2017-05-23 13:51:31.790] [INFO] error - [worker:1]  { Error: Unexpected field
+    at makeError (/opt/develop/project/node/express-guide/node_modules/multer/lib/make-error.js:12:13)
+    at wrappedFileFilter (/opt/develop/project/node/express-guide/node_modules/multer/index.js:40:19)
+    at Busboy.<anonymous> (/opt/develop/project/node/express-guide/node_modules/multer/lib/make-middleware.js:114:7)
+    at emitMany (events.js:127:13)
+    at Busboy.emit (events.js:201:7)
+    at Busboy.emit (/opt/develop/project/node/express-guide/node_modules/busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/opt/develop/project/node/express-guide/node_modules/busboy/lib/types/multipart.js:213:13)
+    at emitOne (events.js:96:13)
+    at PartStream.emit (events.js:188:7)
+    at HeaderParser.<anonymous> (/opt/develop/project/node/express-guide/node_modules/dicer/lib/Dicer.js:51:16)
+  code: 'LIMIT_UNEXPECTED_FILE',
+  field: 'excel_file',
+  storageErrors: [] }
+[2017-05-23 13:52:30.032] [INFO] error - [worker:3]  { Error: ENOENT: no such file or directory, open '/opt/develop/project/node/express-guide/www/public/excel/vin-excel-1495518750003.xlsx'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.fs.readFileSync (fs.js:508:33)
+    at readSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17230:52)
+    at Object.readFileSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17250:9)
+    at exports.parseExcelFile (/opt/develop/project/node/express-guide/server/src/controller/test/ctrl.js:65:23)
+    at next (native)
+    at onFulfilled (/opt/develop/project/node/express-guide/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/opt/develop/project/node/express-guide/www/public/excel/vin-excel-1495518750003.xlsx' }
+[2017-05-23 13:53:53.300] [INFO] error - [worker:3]  { Error: ENOENT: no such file or directory, open '/opt/develop/project/node/express-guide/www/public/excel/vin-excel-1495518833273.xlsx.xlsx'
+    at Error (native)
+    at Object.fs.openSync (fs.js:640:18)
+    at Object.fs.readFileSync (fs.js:508:33)
+    at readSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17230:52)
+    at Object.readFileSync (/opt/develop/project/node/express-guide/node_modules/xlsx/xlsx.js:17250:9)
+    at exports.parseExcelFile (/opt/develop/project/node/express-guide/server/src/controller/test/ctrl.js:65:23)
+    at next (native)
+    at onFulfilled (/opt/develop/project/node/express-guide/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: '/opt/develop/project/node/express-guide/www/public/excel/vin-excel-1495518833273.xlsx.xlsx' }
+[2017-05-23 13:54:36.275] [INFO] error - [worker:1] 文件格式错误!sheet名称必须为:sheet1,当前为:OPTemplate
+[2017-05-23 13:54:36.275] [INFO] error - [worker:1] 文件格式错误!sheet名称必须为:sheet1,当前为:OPTemplate
+[2017-06-14 12:24:31.913] [ERROR] error - [worker:1] / not found!
+[2017-06-14 12:25:48.412] [ERROR] error - [worker:1] /spa-bundle/management-spa-.js not found!
+[2017-06-14 12:26:38.073] [ERROR] error - [worker:1] /assets/porsche-font/TrueType/LT_21021.ttf not found!
+[2017-06-14 12:27:09.904] [ERROR] error - [worker:1] /assets/porsche-font/TrueType/LT_21021.ttf not found!
+[2017-06-14 12:27:14.583] [ERROR] error - [worker:1] /assets/porsche-font/TrueType/LT_21021.ttf not found!
+[2017-06-14 12:40:47.202] [ERROR] error - [worker:1] /api/get-books not found!
+[2017-06-14 12:41:53.686] [ERROR] error - [worker:1] /api/get-books not found!
+[2017-06-14 12:42:06.522] [ERROR] error - [worker:1] /api/get-books not found!
+[2017-06-14 13:00:32.274] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-14 13:00:36.589] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-14 13:08:29.298] [ERROR] error - [worker:1] /api/test-post not found!
+[2017-06-14 13:18:22.628] [INFO] error - [worker:1] 文件格式错误!sheet名称必须为:OPTemplate,当前为:迭代优化费用 (2)
+[2017-06-14 13:18:22.628] [INFO] error - [worker:1] 文件格式错误!sheet名称必须为:OPTemplate,当前为:迭代优化费用 (2)
+[2017-06-14 13:24:03.889] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-14 13:25:28.905] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-14 13:25:52.817] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:34:21.725] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:34:25.493] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:34:28.587] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:34:28.634] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:36:49.698] [ERROR] error - [worker:1] /api/sps/customerInfo/excel/template/download not found!
+[2017-06-29 12:41:45.598] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:41:51.797] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:41:53.080] [ERROR] error - [worker:1] /api/sps/login not found!
+[2017-06-29 12:42:11.739] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:42:14.239] [ERROR] error - [worker:1] /api/sps/login not found!
+[2017-06-29 12:44:41.833] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:44:41.880] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:44:44.316] [ERROR] error - [worker:1] /api/sps/login not found!
+[2017-06-29 12:46:22.801] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:46:22.852] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:46:24.282] [ERROR] error - [worker:1] /api/sps/sysAccountLocal/getAccoutAndRoleList/100 not found!
+[2017-06-29 12:48:43.661] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:48:43.702] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:49:05.689] [ERROR] error - [worker:1] /api/sps/customerInfo/excel/template/download not found!
+[2017-06-29 12:50:27.099] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:51:48.677] [ERROR] error - [worker:1] /api/sps/customerInfo/excel/template/download not found!
+[2017-06-29 12:57:34.566] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:59:37.207] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:59:37.248] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:59:47.480] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 12:59:53.682] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 12:59:53.724] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 13:06:45.816] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 13:06:53.440] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 13:07:01.473] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 13:07:01.512] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 13:07:50.059] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 13:07:50.110] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 13:09:24.482] [ERROR] error - [worker:1] /api/sps/login not found!
+[2017-06-29 13:09:25.328] [ERROR] error - [worker:1] /api/sps/login not found!
+[2017-06-29 13:09:37.955] [ERROR] error - [worker:1] /api/sps/login not found!
+[2017-06-29 14:41:29.032] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 14:41:29.083] [ERROR] error - [worker:1] /antd.css.map not found!
+[2017-06-29 16:46:47.332] [ERROR] error - [worker:1] /assets/image/manager-platform/login-bg.png not found!
+[2017-06-29 16:46:47.366] [ERROR] error - [worker:1] /antd.css.map not found!

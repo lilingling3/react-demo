@@ -1,0 +1,75 @@
+.preCard {
+    font-size: .32rem;
+    background-color: #e9e8e8;
+    height: 100%;
+    overflow: scroll;
+}
+
+.preCard .header {
+    font-size: .32rem;
+    position: relative;
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 38px;
+    line-height: 38px;
+}
+
+.preCard .headerIcon {
+    position: absolute;
+    font-size: .5rem;
+    left: .1rem;
+    top: 2px;
+}
+
+.preCard .preCardItem {
+    width: 100%;
+    text-align: center;
+}
+
+.preCard .hengshu {
+    z-index: 10;
+    position: relative;
+}
+
+.preCard .preCardItem input {
+    width: 20%;
+    height: 32px;
+    margin-top: 15px;
+    margin-bottom: -5px;
+    color: #FFFFFF;
+    background-color: #333333;
+    text-align: center;
+    border: 2px solid #979797;
+    border-radius: 15px;
+}
+
+.preCard .preCardItem img {
+    width: 70%;
+    z-index: -1;
+}
+
+.preCard .preCardButton {
+    margin-top: 15px;
+    width: 100%;
+    text-align: center;
+}
+
+.preCard .preCardButton input {
+    width: 40%;
+    height: 40px;
+    color: #000000;
+    text-align: center;
+    border: 2px solid #979797;
+    border-radius: 8px;
+}
+
+.preCard .preCardButton .giveUpButton {
+    margin-right: 15px;
+    background-color: #F6F6F6;
+}
+
+.preCard .preCardButton .saveButton {
+    margin-left: 15px;
+    background-color: #D7D7D7;
+}

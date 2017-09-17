@@ -1,0 +1,56 @@
+.allocation {
+  font-size: 14px;
+}
+
+.allocation > p:first-child {
+    height: 40px;
+    line-height: 30px;
+    background: #ECEBEB;
+    padding-left: 10px;
+    padding-top: 10px;
+    color: #333;
+    box-sizing: border-box;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.allocation > p:first-child span {
+  float: right;
+  position: relative;
+  right: 15px;
+}
+
+.allocation > p:nth-of-type(2) {
+  color: #666;
+  height: 40px;
+  box-sizing: border-box;
+  padding: 15px 10px 5px;
+}
+.allocation .gAccountBox{
+  height: calc(100% - 80px);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+
+}
+
+.allocation ul {
+  padding: 0 10px;
+  box-sizing: border-box;
+
+}
+
+.allocation ul input {
+  border: 1px solid #ECEBEB;
+  float: left;
+  height: 24px;
+  line-height: 24px;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+}
+
+.allocation ul li {
+  height: 36px;
+  line-height: 36px;
+  box-sizing: border-box;
+}

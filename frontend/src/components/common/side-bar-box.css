@@ -1,0 +1,27 @@
+
+.sbarbox{
+  height: 100%;
+}
+
+.sbarbox .header{
+  position: relative;
+  color: white;
+  background-color: black;
+  text-align: center;
+  height: 38px;
+  line-height: 38px;
+  font-size: .35em;
+}
+
+.sbarbox .headerIcon{
+  position: absolute;
+  font-size: .5rem;
+  left: .1rem;
+  top: 2px;
+}
+
+.sbarbox .content{
+  height: calc(100% - 38px);
+  overflow-y: auto;
+  -webkit-overflow-scrolling : touch;
+}

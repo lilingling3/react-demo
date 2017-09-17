@@ -1,0 +1,41 @@
+.taskContent{
+    height: 100%;
+    background: #F8F6F6;
+}
+.taskFooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.taskFooter li{
+    flex-grow: 1;
+    text-align: center;
+    margin:.625rem 0;
+}
+.taskFooter li span{
+    position: relative;
+    top: .75rem;
+    right: 2.5rem;
+}
+.taskFooter img{
+    width: 2.8125rem;
+    height:2.8125rem;
+}
+
+.nav{
+    font-size: 1.0625rem;
+    padding: .625rem 0;
+}
+
+.nav div{
+    float: left;
+    width: 40%;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    border-radius:0.5rem;
+    text-align: center;
+}
+.nav div:first-child{
+    margin: 0 1.25rem
+}
+
